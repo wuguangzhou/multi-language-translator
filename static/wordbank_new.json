@@ -1,0 +1,6956 @@
+{
+  "words": [
+    {
+      "word": "paper",
+      "translation": "n. 纸，报纸，文件，论文，试卷",
+      "level": "CET4"
+    },
+    {
+      "word": "paragraph",
+      "translation": "n. 段落",
+      "level": "CET4"
+    },
+    {
+      "word": "parallel",
+      "translation": "adj. 平行的，类似的",
+      "level": "CET4"
+    },
+    {
+      "word": "parcel",
+      "translation": "n. 包裹，小包",
+      "level": "CET4"
+    },
+    {
+      "word": "pardon",
+      "translation": "n. 原谅，宽恕",
+      "level": "CET4"
+    },
+    {
+      "word": "parent",
+      "translation": "n. 父母",
+      "level": "CET4"
+    },
+    {
+      "word": "park",
+      "translation": "n. 公园，停车场",
+      "level": "CET4"
+    },
+    {
+      "word": "parliament",
+      "translation": "n. 议会，国会",
+      "level": "CET4"
+    },
+    {
+      "word": "part",
+      "translation": "n. 部分，角色",
+      "level": "CET4"
+    },
+    {
+      "word": "participate",
+      "translation": "v. 参加，参与",
+      "level": "CET4"
+    },
+    {
+      "word": "particular",
+      "translation": "adj. 特别的，特定的",
+      "level": "CET4"
+    },
+    {
+      "word": "partly",
+      "translation": "adv. 部分地，在一定程度上",
+      "level": "CET4"
+    },
+    {
+      "word": "partner",
+      "translation": "n. 伙伴，搭档",
+      "level": "CET4"
+    },
+    {
+      "word": "party",
+      "translation": "n. 聚会，政党",
+      "level": "CET4"
+    },
+    {
+      "word": "pass",
+      "translation": "v. 通过，传递",
+      "level": "CET4"
+    },
+    {
+      "word": "passage",
+      "translation": "n. 通道，段落",
+      "level": "CET4"
+    },
+    {
+      "word": "passenger",
+      "translation": "n. 乘客，旅客",
+      "level": "CET4"
+    },
+    {
+      "word": "passion",
+      "translation": "n. 热情，激情",
+      "level": "CET4"
+    },
+    {
+      "word": "passive",
+      "translation": "adj. 被动的，消极的",
+      "level": "CET4"
+    },
+    {
+      "word": "passport",
+      "translation": "n. 护照",
+      "level": "CET4"
+    },
+    {
+      "word": "past",
+      "translation": "adj. 过去的，n. 过去",
+      "level": "CET4"
+    },
+    {
+      "word": "paste",
+      "translation": "n. 浆糊，v. 粘贴",
+      "level": "CET4"
+    },
+    {
+      "word": "pat",
+      "translation": "v. 轻拍，n. 轻拍",
+      "level": "CET4"
+    },
+    {
+      "word": "patch",
+      "translation": "n. 补丁，小块",
+      "level": "CET4"
+    },
+    {
+      "word": "path",
+      "translation": "n. 小路，路径",
+      "level": "CET4"
+    },
+    {
+      "word": "patience",
+      "translation": "n. 耐心，忍耐",
+      "level": "CET4"
+    },
+    {
+      "word": "patient",
+      "translation": "adj. 耐心的，n. 病人",
+      "level": "CET4"
+    },
+    {
+      "word": "pattern",
+      "translation": "n. 模式，图案",
+      "level": "CET4"
+    },
+    {
+      "word": "pause",
+      "translation": "v. 暂停，n. 暂停",
+      "level": "CET4"
+    },
+    {
+      "word": "pave",
+      "translation": "v. 铺路，铺设",
+      "level": "CET4"
+    },
+    {
+      "word": "pavement",
+      "translation": "n. 人行道，路面",
+      "level": "CET4"
+    },
+    {
+      "word": "paw",
+      "translation": "n. 爪子，v. 用爪子抓",
+      "level": "CET4"
+    },
+    {
+      "word": "pay",
+      "translation": "v. 支付，n. 工资",
+      "level": "CET4"
+    },
+    {
+      "word": "payment",
+      "translation": "n. 支付，付款",
+      "level": "CET4"
+    },
+    {
+      "word": "peace",
+      "translation": "n. 和平，安宁",
+      "level": "CET4"
+    },
+    {
+      "word": "peaceful",
+      "translation": "adj. 和平的，平静的",
+      "level": "CET4"
+    },
+    {
+      "word": "peach",
+      "translation": "n. 桃子",
+      "level": "CET4"
+    },
+    {
+      "word": "peak",
+      "translation": "n. 山峰，顶点",
+      "level": "CET4"
+    },
+    {
+      "word": "pear",
+      "translation": "n. 梨",
+      "level": "CET4"
+    },
+    {
+      "word": "pearl",
+      "translation": "n. 珍珠",
+      "level": "CET4"
+    },
+    {
+      "word": "peasant",
+      "translation": "n. 农民",
+      "level": "CET4"
+    },
+    {
+      "word": "peculiar",
+      "translation": "adj. 特殊的，独特的",
+      "level": "CET4"
+    },
+    {
+      "word": "pen",
+      "translation": "n. 钢笔，笔",
+      "level": "CET4"
+    },
+    {
+      "word": "pencil",
+      "translation": "n. 铅笔",
+      "level": "CET4"
+    },
+    {
+      "word": "penetrate",
+      "translation": "v. 穿透，渗透",
+      "level": "CET4"
+    },
+    {
+      "word": "penny",
+      "translation": "n. 便士，分",
+      "level": "CET4"
+    },
+    {
+      "word": "pension",
+      "translation": "n. 养老金，退休金",
+      "level": "CET4"
+    },
+    {
+      "word": "people",
+      "translation": "n. 人们，人民",
+      "level": "CET4"
+    },
+    {
+      "word": "pepper",
+      "translation": "n. 胡椒，辣椒",
+      "level": "CET4"
+    },
+    {
+      "word": "per",
+      "translation": "prep. 每，通过",
+      "level": "CET4"
+    },
+    {
+      "word": "perceive",
+      "translation": "v. 察觉，感知",
+      "level": "CET4"
+    },
+    {
+      "word": "percent",
+      "translation": "n. 百分比",
+      "level": "CET4"
+    },
+    {
+      "word": "percentage",
+      "translation": "n. 百分比，百分率",
+      "level": "CET4"
+    },
+    {
+      "word": "perfect",
+      "translation": "adj. 完美的，v. 使完美",
+      "level": "CET4"
+    },
+    {
+      "word": "perform",
+      "translation": "v. 执行，表演",
+      "level": "CET4"
+    },
+    {
+      "word": "performance",
+      "translation": "n. 表现，表演",
+      "level": "CET4"
+    },
+    {
+      "word": "perhaps",
+      "translation": "adv. 也许，可能",
+      "level": "CET4"
+    },
+    {
+      "word": "period",
+      "translation": "n. 时期，阶段",
+      "level": "CET4"
+    },
+    {
+      "word": "permanent",
+      "translation": "adj. 永久的，持久的",
+      "level": "CET4"
+    },
+    {
+      "word": "permission",
+      "translation": "n. 允许，许可",
+      "level": "CET4"
+    },
+    {
+      "word": "permit",
+      "translation": "v. 允许，n. 许可证",
+      "level": "CET4"
+    },
+    {
+      "word": "persist",
+      "translation": "v. 坚持，持续",
+      "level": "CET4"
+    },
+    {
+      "word": "person",
+      "translation": "n. 人，个人",
+      "level": "CET4"
+    },
+    {
+      "word": "personal",
+      "translation": "adj. 个人的，私人的",
+      "level": "CET4"
+    },
+    {
+      "word": "personality",
+      "translation": "n. 个性，性格",
+      "level": "CET4"
+    },
+    {
+      "word": "personnel",
+      "translation": "n. 人员，人事",
+      "level": "CET4"
+    },
+    {
+      "word": "perspective",
+      "translation": "n. 观点，远景",
+      "level": "CET4"
+    },
+    {
+      "word": "persuade",
+      "translation": "v. 说服，劝说",
+      "level": "CET4"
+    },
+    {
+      "word": "pessimistic",
+      "translation": "adj. 悲观的",
+      "level": "CET4"
+    },
+    {
+      "word": "pet",
+      "translation": "n. 宠物，v. 宠爱",
+      "level": "CET4"
+    },
+    {
+      "word": "petrol",
+      "translation": "n. 汽油",
+      "level": "CET4"
+    },
+    {
+      "word": "petroleum",
+      "translation": "n. 石油",
+      "level": "CET4"
+    },
+    {
+      "word": "phase",
+      "translation": "n. 阶段，时期",
+      "level": "CET4"
+    },
+    {
+      "word": "phenomenon",
+      "translation": "n. 现象",
+      "level": "CET4"
+    },
+    {
+      "word": "philosopher",
+      "translation": "n. 哲学家",
+      "level": "CET4"
+    },
+    {
+      "word": "philosophy",
+      "translation": "n. 哲学，人生观",
+      "level": "CET4"
+    },
+    {
+      "word": "phone",
+      "translation": "n. 电话，v. 打电话",
+      "level": "CET4"
+    },
+    {
+      "word": "photo",
+      "translation": "n. 照片",
+      "level": "CET4"
+    },
+    {
+      "word": "photograph",
+      "translation": "n. 照片，v. 拍照",
+      "level": "CET4"
+    },
+    {
+      "word": "phrase",
+      "translation": "n. 短语，词组",
+      "level": "CET4"
+    },
+    {
+      "word": "physical",
+      "translation": "adj. 物理的，身体的",
+      "level": "CET4"
+    },
+    {
+      "word": "physician",
+      "translation": "n. 医生，内科医生",
+      "level": "CET4"
+    },
+    {
+      "word": "physicist",
+      "translation": "n. 物理学家",
+      "level": "CET4"
+    },
+    {
+      "word": "physics",
+      "translation": "n. 物理学",
+      "level": "CET4"
+    },
+    {
+      "word": "piano",
+      "translation": "n. 钢琴",
+      "level": "CET4"
+    },
+    {
+      "word": "pick",
+      "translation": "v. 选择，采摘",
+      "level": "CET4"
+    },
+    {
+      "word": "picnic",
+      "translation": "n. 野餐",
+      "level": "CET4"
+    },
+    {
+      "word": "picture",
+      "translation": "n. 图片，照片",
+      "level": "CET4"
+    },
+    {
+      "word": "pie",
+      "translation": "n. 馅饼",
+      "level": "CET4"
+    },
+    {
+      "word": "piece",
+      "translation": "n. 片，块，件",
+      "level": "CET4"
+    },
+    {
+      "word": "place",
+      "translation": "n. 地方，位置",
+      "level": "CET4"
+    },
+    {
+      "word": "plain",
+      "translation": "adj. 简单的，n. 平原",
+      "level": "CET4"
+    },
+    {
+      "word": "plan",
+      "translation": "n. 计划，v. 计划",
+      "level": "CET4"
+    },
+    {
+      "word": "plane",
+      "translation": "n. 飞机，平面",
+      "level": "CET4"
+    },
+    {
+      "word": "planet",
+      "translation": "n. 行星",
+      "level": "CET4"
+    },
+    {
+      "word": "plant",
+      "translation": "n. 植物，工厂",
+      "level": "CET4"
+    },
+    {
+      "word": "plantation",
+      "translation": "n. 种植园",
+      "level": "CET4"
+    },
+    {
+      "word": "plastic",
+      "translation": "n. 塑料，adj. 塑料的",
+      "level": "CET4"
+    },
+    {
+      "word": "plate",
+      "translation": "n. 盘子，板",
+      "level": "CET4"
+    },
+    {
+      "word": "platform",
+      "translation": "n. 平台，站台",
+      "level": "CET4"
+    },
+    {
+      "word": "play",
+      "translation": "v. 玩，演奏",
+      "level": "CET4"
+    },
+    {
+      "word": "player",
+      "translation": "n. 运动员，演员",
+      "level": "CET4"
+    },
+    {
+      "word": "playground",
+      "translation": "n. 操场，运动场",
+      "level": "CET4"
+    },
+    {
+      "word": "pleasant",
+      "translation": "adj. 愉快的，宜人的",
+      "level": "CET4"
+    },
+    {
+      "word": "please",
+      "translation": "v. 请，使高兴",
+      "level": "CET4"
+    },
+    {
+      "word": "pleasure",
+      "translation": "n. 愉快，乐趣",
+      "level": "CET4"
+    },
+    {
+      "word": "plentiful",
+      "translation": "adj. 丰富的，充足的",
+      "level": "CET4"
+    },
+    {
+      "word": "plenty",
+      "translation": "n. 大量，充足",
+      "level": "CET4"
+    },
+    {
+      "word": "plot",
+      "translation": "n. 情节，阴谋",
+      "level": "CET4"
+    },
+    {
+      "word": "plough",
+      "translation": "n. 犁，v. 犁地",
+      "level": "CET4"
+    },
+    {
+      "word": "pluck",
+      "translation": "v. 采摘，拔",
+      "level": "CET4"
+    },
+    {
+      "word": "plug",
+      "translation": "n. 插头，塞子",
+      "level": "CET4"
+    },
+    {
+      "word": "plunge",
+      "translation": "v. 投入，跳入",
+      "level": "CET4"
+    },
+    {
+      "word": "plural",
+      "translation": "adj. 复数的，n. 复数",
+      "level": "CET4"
+    },
+    {
+      "word": "plus",
+      "translation": "prep. 加，n. 加号",
+      "level": "CET4"
+    },
+    {
+      "word": "pocket",
+      "translation": "n. 口袋，adj. 袖珍的",
+      "level": "CET4"
+    },
+    {
+      "word": "poem",
+      "translation": "n. 诗，诗歌",
+      "level": "CET4"
+    },
+    {
+      "word": "poet",
+      "translation": "n. 诗人",
+      "level": "CET4"
+    },
+    {
+      "word": "poetry",
+      "translation": "n. 诗歌，诗集",
+      "level": "CET4"
+    },
+    {
+      "word": "point",
+      "translation": "n. 点，要点",
+      "level": "CET4"
+    },
+    {
+      "word": "poison",
+      "translation": "n. 毒药，v. 毒害",
+      "level": "CET4"
+    },
+    {
+      "word": "poisonous",
+      "translation": "adj. 有毒的",
+      "level": "CET4"
+    },
+    {
+      "word": "pole",
+      "translation": "n. 杆，极",
+      "level": "CET4"
+    },
+    {
+      "word": "police",
+      "translation": "n. 警察，警方",
+      "level": "CET4"
+    },
+    {
+      "word": "policeman",
+      "translation": "n. 警察",
+      "level": "CET4"
+    },
+    {
+      "word": "policy",
+      "translation": "n. 政策，方针",
+      "level": "CET4"
+    },
+    {
+      "word": "polish",
+      "translation": "v. 磨光，润色",
+      "level": "CET4"
+    },
+    {
+      "word": "polite",
+      "translation": "adj. 有礼貌的",
+      "level": "CET4"
+    },
+    {
+      "word": "political",
+      "translation": "adj. 政治的",
+      "level": "CET4"
+    },
+    {
+      "word": "politician",
+      "translation": "n. 政治家",
+      "level": "CET4"
+    },
+    {
+      "word": "politics",
+      "translation": "n. 政治，政治学",
+      "level": "CET4"
+    },
+    {
+      "word": "pollute",
+      "translation": "v. 污染",
+      "level": "CET4"
+    },
+    {
+      "word": "pollution",
+      "translation": "n. 污染",
+      "level": "CET4"
+    },
+    {
+      "word": "pond",
+      "translation": "n. 池塘",
+      "level": "CET4"
+    },
+    {
+      "word": "pool",
+      "translation": "n. 水池，游泳池",
+      "level": "CET4"
+    },
+    {
+      "word": "poor",
+      "translation": "adj. 贫穷的，可怜的",
+      "level": "CET4"
+    },
+    {
+      "word": "pop",
+      "translation": "v. 弹出，n. 流行音乐",
+      "level": "CET4"
+    },
+    {
+      "word": "popular",
+      "translation": "adj. 流行的，受欢迎的",
+      "level": "CET4"
+    },
+    {
+      "word": "population",
+      "translation": "n. 人口，种群",
+      "level": "CET4"
+    },
+    {
+      "word": "porch",
+      "translation": "n. 门廊，走廊",
+      "level": "CET4"
+    },
+    {
+      "word": "pork",
+      "translation": "n. 猪肉",
+      "level": "CET4"
+    },
+    {
+      "word": "port",
+      "translation": "n. 港口，口岸",
+      "level": "CET4"
+    },
+    {
+      "word": "portable",
+      "translation": "adj. 便携的，手提的",
+      "level": "CET4"
+    },
+    {
+      "word": "porter",
+      "translation": "n. 搬运工，门房",
+      "level": "CET4"
+    },
+    {
+      "word": "portion",
+      "translation": "n. 部分，一份",
+      "level": "CET4"
+    },
+    {
+      "word": "portrait",
+      "translation": "n. 肖像，画像",
+      "level": "CET4"
+    },
+    {
+      "word": "pose",
+      "translation": "v. 摆姿势，提出",
+      "level": "CET4"
+    },
+    {
+      "word": "position",
+      "translation": "n. 位置，职位",
+      "level": "CET4"
+    },
+    {
+      "word": "positive",
+      "translation": "adj. 积极的，肯定的",
+      "level": "CET4"
+    },
+    {
+      "word": "possess",
+      "translation": "v. 拥有，具有",
+      "level": "CET4"
+    },
+    {
+      "word": "possession",
+      "translation": "n. 拥有，财产",
+      "level": "CET4"
+    },
+    {
+      "word": "possibility",
+      "translation": "n. 可能性",
+      "level": "CET4"
+    },
+    {
+      "word": "possible",
+      "translation": "adj. 可能的",
+      "level": "CET4"
+    },
+    {
+      "word": "possibly",
+      "translation": "adv. 可能地",
+      "level": "CET4"
+    },
+    {
+      "word": "post",
+      "translation": "n. 邮件，职位",
+      "level": "CET4"
+    },
+    {
+      "word": "postage",
+      "translation": "n. 邮资",
+      "level": "CET4"
+    },
+    {
+      "word": "postcard",
+      "translation": "n. 明信片",
+      "level": "CET4"
+    },
+    {
+      "word": "poster",
+      "translation": "n. 海报，广告",
+      "level": "CET4"
+    },
+    {
+      "word": "postman",
+      "translation": "n. 邮递员",
+      "level": "CET4"
+    },
+    {
+      "word": "postpone",
+      "translation": "v. 推迟，延期",
+      "level": "CET4"
+    },
+    {
+      "word": "pot",
+      "translation": "n. 锅，壶",
+      "level": "CET4"
+    },
+    {
+      "word": "potato",
+      "translation": "n. 土豆",
+      "level": "CET4"
+    },
+    {
+      "word": "potential",
+      "translation": "adj. 潜在的，n. 潜力",
+      "level": "CET4"
+    },
+    {
+      "word": "pound",
+      "translation": "n. 英镑，磅",
+      "level": "CET4"
+    },
+    {
+      "word": "pour",
+      "translation": "v. 倒，倾泻",
+      "level": "CET4"
+    },
+    {
+      "word": "poverty",
+      "translation": "n. 贫穷，贫困",
+      "level": "CET4"
+    },
+    {
+      "word": "powder",
+      "translation": "n. 粉末，火药",
+      "level": "CET4"
+    },
+    {
+      "word": "power",
+      "translation": "n. 力量，权力",
+      "level": "CET4"
+    },
+    {
+      "word": "powerful",
+      "translation": "adj. 强大的，有力的",
+      "level": "CET4"
+    },
+    {
+      "word": "practical",
+      "translation": "adj. 实际的，实用的",
+      "level": "CET4"
+    },
+    {
+      "word": "practically",
+      "translation": "adv. 实际上，几乎",
+      "level": "CET4"
+    },
+    {
+      "word": "practice",
+      "translation": "n. 练习，实践",
+      "level": "CET4"
+    },
+    {
+      "word": "practise",
+      "translation": "v. 练习，实践",
+      "level": "CET4"
+    },
+    {
+      "word": "praise",
+      "translation": "v. 赞扬，n. 赞美",
+      "level": "CET4"
+    },
+    {
+      "word": "pray",
+      "translation": "v. 祈祷，祈求",
+      "level": "CET4"
+    },
+    {
+      "word": "prayer",
+      "translation": "n. 祈祷，祷告",
+      "level": "CET4"
+    },
+    {
+      "word": "precaution",
+      "translation": "n. 预防，警惕",
+      "level": "CET4"
+    },
+    {
+      "word": "preceding",
+      "translation": "adj. 在前的，前面的",
+      "level": "CET4"
+    },
+    {
+      "word": "precious",
+      "translation": "adj. 珍贵的，宝贵的",
+      "level": "CET4"
+    },
+    {
+      "word": "precise",
+      "translation": "adj. 精确的，准确的",
+      "level": "CET4"
+    },
+    {
+      "word": "precision",
+      "translation": "n. 精确，准确",
+      "level": "CET4"
+    },
+    {
+      "word": "predict",
+      "translation": "v. 预测，预言",
+      "level": "CET4"
+    },
+    {
+      "word": "preface",
+      "translation": "n. 序言，前言",
+      "level": "CET4"
+    },
+    {
+      "word": "prefer",
+      "translation": "v. 更喜欢，宁愿",
+      "level": "CET4"
+    },
+    {
+      "word": "preferable",
+      "translation": "adj. 更好的，更可取的",
+      "level": "CET4"
+    },
+    {
+      "word": "preference",
+      "translation": "n. 偏爱，优先",
+      "level": "CET4"
+    },
+    {
+      "word": "pregnant",
+      "translation": "adj. 怀孕的",
+      "level": "CET4"
+    },
+    {
+      "word": "prejudice",
+      "translation": "n. 偏见，歧视",
+      "level": "CET4"
+    },
+    {
+      "word": "preliminary",
+      "translation": "adj. 初步的，预备的",
+      "level": "CET4"
+    },
+    {
+      "word": "preparation",
+      "translation": "n. 准备，预备",
+      "level": "CET4"
+    },
+    {
+      "word": "prepare",
+      "translation": "v. 准备，预备",
+      "level": "CET4"
+    },
+    {
+      "word": "preposition",
+      "translation": "n. 介词",
+      "level": "CET4"
+    },
+    {
+      "word": "prescribe",
+      "translation": "v. 规定，开处方",
+      "level": "CET4"
+    },
+    {
+      "word": "presence",
+      "translation": "n. 出席，存在",
+      "level": "CET4"
+    },
+    {
+      "word": "present",
+      "translation": "adj. 现在的，n. 礼物",
+      "level": "CET4"
+    },
+    {
+      "word": "presentation",
+      "translation": "n. 介绍，陈述",
+      "level": "CET4"
+    },
+    {
+      "word": "presently",
+      "translation": "adv. 目前，不久",
+      "level": "CET4"
+    },
+    {
+      "word": "preserve",
+      "translation": "v. 保存，保护",
+      "level": "CET4"
+    },
+    {
+      "word": "president",
+      "translation": "n. 总统，校长",
+      "level": "CET4"
+    },
+    {
+      "word": "press",
+      "translation": "v. 压，按，n. 新闻界",
+      "level": "CET4"
+    },
+    {
+      "word": "pressure",
+      "translation": "n. 压力，压迫",
+      "level": "CET4"
+    },
+    {
+      "word": "presumably",
+      "translation": "adv. 大概，可能",
+      "level": "CET4"
+    },
+    {
+      "word": "pretend",
+      "translation": "v. 假装，伪装",
+      "level": "CET4"
+    },
+    {
+      "word": "pretty",
+      "translation": "adj. 漂亮的，adv. 相当",
+      "level": "CET4"
+    },
+    {
+      "word": "prevail",
+      "translation": "v. 盛行，获胜",
+      "level": "CET4"
+    },
+    {
+      "word": "prevent",
+      "translation": "v. 防止，预防",
+      "level": "CET4"
+    },
+    {
+      "word": "previous",
+      "translation": "adj. 以前的，先前的",
+      "level": "CET4"
+    },
+    {
+      "word": "prey",
+      "translation": "n. 猎物，v. 捕食",
+      "level": "CET4"
+    },
+    {
+      "word": "price",
+      "translation": "n. 价格，代价",
+      "level": "CET4"
+    },
+    {
+      "word": "pride",
+      "translation": "n. 骄傲，自豪",
+      "level": "CET4"
+    },
+    {
+      "word": "priest",
+      "translation": "n. 牧师，神父",
+      "level": "CET4"
+    },
+    {
+      "word": "primarily",
+      "translation": "adv. 主要地，根本上",
+      "level": "CET4"
+    },
+    {
+      "word": "primary",
+      "translation": "adj. 主要的，初级的",
+      "level": "CET4"
+    },
+    {
+      "word": "prime",
+      "translation": "adj. 主要的，最好的",
+      "level": "CET4"
+    },
+    {
+      "word": "primitive",
+      "translation": "adj. 原始的，简单的",
+      "level": "CET4"
+    },
+    {
+      "word": "prince",
+      "translation": "n. 王子，亲王",
+      "level": "CET4"
+    },
+    {
+      "word": "princess",
+      "translation": "n. 公主，王妃",
+      "level": "CET4"
+    },
+    {
+      "word": "principal",
+      "translation": "adj. 主要的，n. 校长",
+      "level": "CET4"
+    },
+    {
+      "word": "principle",
+      "translation": "n. 原则，原理",
+      "level": "CET4"
+    },
+    {
+      "word": "print",
+      "translation": "v. 打印，印刷",
+      "level": "CET4"
+    },
+    {
+      "word": "printer",
+      "translation": "n. 打印机，印刷工",
+      "level": "CET4"
+    },
+    {
+      "word": "prior",
+      "translation": "adj. 优先的，在前的",
+      "level": "CET4"
+    },
+    {
+      "word": "priority",
+      "translation": "n. 优先，优先权",
+      "level": "CET4"
+    },
+    {
+      "word": "prison",
+      "translation": "n. 监狱，监禁",
+      "level": "CET4"
+    },
+    {
+      "word": "prisoner",
+      "translation": "n. 囚犯，俘虏",
+      "level": "CET4"
+    },
+    {
+      "word": "private",
+      "translation": "adj. 私人的，私密的",
+      "level": "CET4"
+    },
+    {
+      "word": "privilege",
+      "translation": "n. 特权，优待",
+      "level": "CET4"
+    },
+    {
+      "word": "prize",
+      "translation": "n. 奖品，奖金",
+      "level": "CET4"
+    },
+    {
+      "word": "probability",
+      "translation": "n. 可能性，概率",
+      "level": "CET4"
+    },
+    {
+      "word": "probable",
+      "translation": "adj. 可能的，大概的",
+      "level": "CET4"
+    },
+    {
+      "word": "probably",
+      "translation": "adv. 可能，大概",
+      "level": "CET4"
+    },
+    {
+      "word": "problem",
+      "translation": "n. 问题，难题",
+      "level": "CET4"
+    },
+    {
+      "word": "procedure",
+      "translation": "n. 程序，手续",
+      "level": "CET4"
+    },
+    {
+      "word": "proceed",
+      "translation": "v. 继续进行，前进",
+      "level": "CET4"
+    },
+    {
+      "word": "process",
+      "translation": "n. 过程，v. 处理",
+      "level": "CET4"
+    },
+    {
+      "word": "procession",
+      "translation": "n. 队伍，行列",
+      "level": "CET4"
+    },
+    {
+      "word": "proclaim",
+      "translation": "v. 宣布，声明",
+      "level": "CET4"
+    },
+    {
+      "word": "produce",
+      "translation": "v. 生产，制造",
+      "level": "CET4"
+    },
+    {
+      "word": "product",
+      "translation": "n. 产品，产物",
+      "level": "CET4"
+    },
+    {
+      "word": "production",
+      "translation": "n. 生产，产量",
+      "level": "CET4"
+    },
+    {
+      "word": "productive",
+      "translation": "adj. 多产的，富有成效的",
+      "level": "CET4"
+    },
+    {
+      "word": "profession",
+      "translation": "n. 职业，专业",
+      "level": "CET4"
+    },
+    {
+      "word": "professional",
+      "translation": "adj. 专业的，职业的",
+      "level": "CET4"
+    },
+    {
+      "word": "professor",
+      "translation": "n. 教授",
+      "level": "CET4"
+    },
+    {
+      "word": "profit",
+      "translation": "n. 利润，收益",
+      "level": "CET4"
+    },
+    {
+      "word": "program",
+      "translation": "n. 程序，节目",
+      "level": "CET4"
+    },
+    {
+      "word": "progress",
+      "translation": "n. 进步，进展",
+      "level": "CET4"
+    },
+    {
+      "word": "progressive",
+      "translation": "adj. 进步的，渐进的",
+      "level": "CET4"
+    },
+    {
+      "word": "prohibit",
+      "translation": "v. 禁止，阻止",
+      "level": "CET4"
+    },
+    {
+      "word": "project",
+      "translation": "n. 项目，工程",
+      "level": "CET4"
+    },
+    {
+      "word": "prominent",
+      "translation": "adj. 突出的，显著的",
+      "level": "CET4"
+    },
+    {
+      "word": "promise",
+      "translation": "n. 承诺，v. 许诺",
+      "level": "CET4"
+    },
+    {
+      "word": "promote",
+      "translation": "v. 促进，提升",
+      "level": "CET4"
+    },
+    {
+      "word": "prompt",
+      "translation": "adj. 迅速的，v. 促使",
+      "level": "CET4"
+    },
+    {
+      "word": "pronoun",
+      "translation": "n. 代词",
+      "level": "CET4"
+    },
+    {
+      "word": "pronounce",
+      "translation": "v. 发音，宣布",
+      "level": "CET4"
+    },
+    {
+      "word": "pronunciation",
+      "translation": "n. 发音，读音",
+      "level": "CET4"
+    },
+    {
+      "word": "proof",
+      "translation": "n. 证明，证据",
+      "level": "CET4"
+    },
+    {
+      "word": "proper",
+      "translation": "adj. 适当的，正确的",
+      "level": "CET4"
+    },
+    {
+      "word": "property",
+      "translation": "n. 财产，性质",
+      "level": "CET4"
+    },
+    {
+      "word": "proportion",
+      "translation": "n. 比例，部分",
+      "level": "CET4"
+    },
+    {
+      "word": "proportional",
+      "translation": "adj. 成比例的",
+      "level": "CET4"
+    },
+    {
+      "word": "proposal",
+      "translation": "n. 提议，建议",
+      "level": "CET4"
+    },
+    {
+      "word": "propose",
+      "translation": "v. 提议，建议",
+      "level": "CET4"
+    },
+    {
+      "word": "prospect",
+      "translation": "n. 前景，展望",
+      "level": "CET4"
+    },
+    {
+      "word": "prosperity",
+      "translation": "n. 繁荣，兴旺",
+      "level": "CET4"
+    },
+    {
+      "word": "prosperous",
+      "translation": "adj. 繁荣的，兴旺的",
+      "level": "CET4"
+    },
+    {
+      "word": "protect",
+      "translation": "v. 保护，防护",
+      "level": "CET4"
+    },
+    {
+      "word": "protection",
+      "translation": "n. 保护，防护",
+      "level": "CET4"
+    },
+    {
+      "word": "protective",
+      "translation": "adj. 保护的，防护的",
+      "level": "CET4"
+    },
+    {
+      "word": "protein",
+      "translation": "n. 蛋白质",
+      "level": "CET4"
+    },
+    {
+      "word": "protest",
+      "translation": "v. 抗议，反对",
+      "level": "CET4"
+    },
+    {
+      "word": "proud",
+      "translation": "adj. 骄傲的，自豪的",
+      "level": "CET4"
+    },
+    {
+      "word": "prove",
+      "translation": "v. 证明，证实",
+      "level": "CET4"
+    },
+    {
+      "word": "provide",
+      "translation": "v. 提供，供给",
+      "level": "CET4"
+    },
+    {
+      "word": "provided",
+      "translation": "conj. 假如，倘若",
+      "level": "CET4"
+    },
+    {
+      "word": "province",
+      "translation": "n. 省，领域",
+      "level": "CET4"
+    },
+    {
+      "word": "provision",
+      "translation": "n. 供应，条款",
+      "level": "CET4"
+    },
+    {
+      "word": "provoke",
+      "translation": "v. 激怒，引起",
+      "level": "CET4"
+    },
+    {
+      "word": "psychological",
+      "translation": "adj. 心理的，心理学的",
+      "level": "CET4"
+    },
+    {
+      "word": "psychology",
+      "translation": "n. 心理学",
+      "level": "CET4"
+    },
+    {
+      "word": "pub",
+      "translation": "n. 酒吧，酒馆",
+      "level": "CET4"
+    },
+    {
+      "word": "public",
+      "translation": "adj. 公共的，公开的",
+      "level": "CET4"
+    },
+    {
+      "word": "publication",
+      "translation": "n. 出版，出版物",
+      "level": "CET4"
+    },
+    {
+      "word": "publicity",
+      "translation": "n. 宣传，公开",
+      "level": "CET4"
+    },
+    {
+      "word": "publish",
+      "translation": "v. 出版，发行",
+      "level": "CET4"
+    },
+    {
+      "word": "pudding",
+      "translation": "n. 布丁",
+      "level": "CET4"
+    },
+    {
+      "word": "pull",
+      "translation": "v. 拉，拖",
+      "level": "CET4"
+    },
+    {
+      "word": "pulse",
+      "translation": "n. 脉搏，脉冲",
+      "level": "CET4"
+    },
+    {
+      "word": "pump",
+      "translation": "n. 泵，v. 抽水",
+      "level": "CET4"
+    },
+    {
+      "word": "punch",
+      "translation": "v. 打孔，n. 打孔器",
+      "level": "CET4"
+    },
+    {
+      "word": "punctual",
+      "translation": "adj. 准时的，守时的",
+      "level": "CET4"
+    },
+    {
+      "word": "punish",
+      "translation": "v. 惩罚，处罚",
+      "level": "CET4"
+    },
+    {
+      "word": "punishment",
+      "translation": "n. 惩罚，处罚",
+      "level": "CET4"
+    },
+    {
+      "word": "pupil",
+      "translation": "n. 学生，瞳孔",
+      "level": "CET4"
+    },
+    {
+      "word": "purchase",
+      "translation": "v. 购买，n. 购买",
+      "level": "CET4"
+    },
+    {
+      "word": "pure",
+      "translation": "adj. 纯的，纯粹的",
+      "level": "CET4"
+    },
+    {
+      "word": "purple",
+      "translation": "adj. 紫色的，n. 紫色",
+      "level": "CET4"
+    },
+    {
+      "word": "purpose",
+      "translation": "n. 目的，意图",
+      "level": "CET4"
+    },
+    {
+      "word": "purse",
+      "translation": "n. 钱包，手提包",
+      "level": "CET4"
+    },
+    {
+      "word": "pursue",
+      "translation": "v. 追求，追赶",
+      "level": "CET4"
+    },
+    {
+      "word": "push",
+      "translation": "v. 推，推动",
+      "level": "CET4"
+    },
+    {
+      "word": "put",
+      "translation": "v. 放，放置",
+      "level": "CET4"
+    },
+    {
+      "word": "puzzle",
+      "translation": "n. 谜题，v. 使困惑",
+      "level": "CET4"
+    },
+    {
+      "word": "qualification",
+      "translation": "n. 资格，条件",
+      "level": "CET4"
+    },
+    {
+      "word": "qualify",
+      "translation": "v. 使合格，取得资格",
+      "level": "CET4"
+    },
+    {
+      "word": "quality",
+      "translation": "n. 质量，品质",
+      "level": "CET4"
+    },
+    {
+      "word": "quantity",
+      "translation": "n. 数量，量",
+      "level": "CET4"
+    },
+    {
+      "word": "quarrel",
+      "translation": "n. 争吵，v. 争吵",
+      "level": "CET4"
+    },
+    {
+      "word": "quarter",
+      "translation": "n. 四分之一，季度",
+      "level": "CET4"
+    },
+    {
+      "word": "queen",
+      "translation": "n. 女王，王后",
+      "level": "CET4"
+    },
+    {
+      "word": "question",
+      "translation": "n. 问题，v. 询问",
+      "level": "CET4"
+    },
+    {
+      "word": "queue",
+      "translation": "n. 队列，v. 排队",
+      "level": "CET4"
+    },
+    {
+      "word": "quick",
+      "translation": "adj. 快的，迅速的",
+      "level": "CET4"
+    },
+    {
+      "word": "quicken",
+      "translation": "v. 加快，加速",
+      "level": "CET4"
+    },
+    {
+      "word": "quiet",
+      "translation": "adj. 安静的，平静的",
+      "level": "CET4"
+    },
+    {
+      "word": "quit",
+      "translation": "v. 退出，放弃",
+      "level": "CET4"
+    },
+    {
+      "word": "quite",
+      "translation": "adv. 相当，完全",
+      "level": "CET4"
+    },
+    {
+      "word": "quiz",
+      "translation": "n. 测验，问答比赛",
+      "level": "CET4"
+    },
+    {
+      "word": "quotation",
+      "translation": "n. 引用，报价",
+      "level": "CET4"
+    },
+    {
+      "word": "quote",
+      "translation": "v. 引用，报价",
+      "level": "CET4"
+    },
+    {
+      "word": "rabbit",
+      "translation": "n. 兔子",
+      "level": "CET4"
+    },
+    {
+      "word": "race",
+      "translation": "n. 比赛，种族",
+      "level": "CET4"
+    },
+    {
+      "word": "racial",
+      "translation": "adj. 种族的，人种的",
+      "level": "CET4"
+    },
+    {
+      "word": "rack",
+      "translation": "n. 架子，行李架",
+      "level": "CET4"
+    },
+    {
+      "word": "radar",
+      "translation": "n. 雷达",
+      "level": "CET4"
+    },
+    {
+      "word": "radiation",
+      "translation": "n. 辐射，放射",
+      "level": "CET4"
+    },
+    {
+      "word": "radical",
+      "translation": "adj. 根本的，激进的",
+      "level": "CET4"
+    },
+    {
+      "word": "radio",
+      "translation": "n. 收音机，无线电",
+      "level": "CET4"
+    },
+    {
+      "word": "radioactive",
+      "translation": "adj. 放射性的",
+      "level": "CET4"
+    },
+    {
+      "word": "radium",
+      "translation": "n. 镭",
+      "level": "CET4"
+    },
+    {
+      "word": "radius",
+      "translation": "n. 半径，范围",
+      "level": "CET4"
+    },
+    {
+      "word": "rag",
+      "translation": "n. 破布，碎布",
+      "level": "CET4"
+    },
+    {
+      "word": "rage",
+      "translation": "n. 愤怒，狂怒",
+      "level": "CET4"
+    },
+    {
+      "word": "raid",
+      "translation": "n. 袭击，突袭",
+      "level": "CET4"
+    },
+    {
+      "word": "rail",
+      "translation": "n. 栏杆，铁轨",
+      "level": "CET4"
+    },
+    {
+      "word": "railroad",
+      "translation": "n. 铁路",
+      "level": "CET4"
+    },
+    {
+      "word": "railway",
+      "translation": "n. 铁路，铁道",
+      "level": "CET4"
+    },
+    {
+      "word": "rain",
+      "translation": "n. 雨，v. 下雨",
+      "level": "CET4"
+    },
+    {
+      "word": "rainbow",
+      "translation": "n. 彩虹",
+      "level": "CET4"
+    },
+    {
+      "word": "rainy",
+      "translation": "adj. 多雨的",
+      "level": "CET4"
+    },
+    {
+      "word": "raise",
+      "translation": "v. 提高，举起",
+      "level": "CET4"
+    },
+    {
+      "word": "range",
+      "translation": "n. 范围，v. 排列",
+      "level": "CET4"
+    },
+    {
+      "word": "rank",
+      "translation": "n. 等级，排名",
+      "level": "CET4"
+    },
+    {
+      "word": "rapid",
+      "translation": "adj. 迅速的，快速的",
+      "level": "CET4"
+    },
+    {
+      "word": "rare",
+      "translation": "adj. 稀有的，罕见的",
+      "level": "CET4"
+    },
+    {
+      "word": "rarely",
+      "translation": "adv. 很少，难得",
+      "level": "CET4"
+    },
+    {
+      "word": "rat",
+      "translation": "n. 老鼠，耗子",
+      "level": "CET4"
+    },
+    {
+      "word": "rate",
+      "translation": "n. 比率，速度",
+      "level": "CET4"
+    },
+    {
+      "word": "rather",
+      "translation": "adv. 相当，宁愿",
+      "level": "CET4"
+    },
+    {
+      "word": "ratio",
+      "translation": "n. 比率，比例",
+      "level": "CET4"
+    },
+    {
+      "word": "rational",
+      "translation": "adj. 理性的，合理的",
+      "level": "CET4"
+    },
+    {
+      "word": "raw",
+      "translation": "adj. 生的，未加工的",
+      "level": "CET4"
+    },
+    {
+      "word": "ray",
+      "translation": "n. 光线，射线",
+      "level": "CET4"
+    },
+    {
+      "word": "reach",
+      "translation": "v. 到达，达到",
+      "level": "CET4"
+    },
+    {
+      "word": "react",
+      "translation": "v. 反应，回应",
+      "level": "CET4"
+    },
+    {
+      "word": "reaction",
+      "translation": "n. 反应，反作用",
+      "level": "CET4"
+    },
+    {
+      "word": "read",
+      "translation": "v. 阅读，读",
+      "level": "CET4"
+    },
+    {
+      "word": "reader",
+      "translation": "n. 读者，阅读器",
+      "level": "CET4"
+    },
+    {
+      "word": "readily",
+      "translation": "adv. 乐意地，容易地",
+      "level": "CET4"
+    },
+    {
+      "word": "reading",
+      "translation": "n. 阅读，读物",
+      "level": "CET4"
+    },
+    {
+      "word": "ready",
+      "translation": "adj. 准备好的，乐意的",
+      "level": "CET4"
+    },
+    {
+      "word": "real",
+      "translation": "adj. 真实的，实际的",
+      "level": "CET4"
+    },
+    {
+      "word": "realistic",
+      "translation": "adj. 现实的，实际的",
+      "level": "CET4"
+    },
+    {
+      "word": "reality",
+      "translation": "n. 现实，实际",
+      "level": "CET4"
+    },
+    {
+      "word": "realize",
+      "translation": "v. 实现，认识到",
+      "level": "CET4"
+    },
+    {
+      "word": "really",
+      "translation": "adv. 真正地，确实",
+      "level": "CET4"
+    },
+    {
+      "word": "realm",
+      "translation": "n. 领域，王国",
+      "level": "CET4"
+    },
+    {
+      "word": "rear",
+      "translation": "n. 后部，adj. 后面的",
+      "level": "CET4"
+    },
+    {
+      "word": "reason",
+      "translation": "n. 原因，理由",
+      "level": "CET4"
+    },
+    {
+      "word": "reasonable",
+      "translation": "adj. 合理的，公道的",
+      "level": "CET4"
+    },
+    {
+      "word": "rebel",
+      "translation": "v. 反叛，n. 反叛者",
+      "level": "CET4"
+    },
+    {
+      "word": "recall",
+      "translation": "v. 回忆，召回",
+      "level": "CET4"
+    },
+    {
+      "word": "receipt",
+      "translation": "n. 收据，收条",
+      "level": "CET4"
+    },
+    {
+      "word": "receive",
+      "translation": "v. 收到，接收",
+      "level": "CET4"
+    },
+    {
+      "word": "receiver",
+      "translation": "n. 接收者，接收器",
+      "level": "CET4"
+    },
+    {
+      "word": "recent",
+      "translation": "adj. 最近的，新近的",
+      "level": "CET4"
+    },
+    {
+      "word": "recently",
+      "translation": "adv. 最近，近来",
+      "level": "CET4"
+    },
+    {
+      "word": "reception",
+      "translation": "n. 接待，接收",
+      "level": "CET4"
+    },
+    {
+      "word": "recession",
+      "translation": "n. 衰退，后退",
+      "level": "CET4"
+    },
+    {
+      "word": "recipe",
+      "translation": "n. 食谱，配方",
+      "level": "CET4"
+    },
+    {
+      "word": "recipient",
+      "translation": "n. 接收者，收件人",
+      "level": "CET4"
+    },
+    {
+      "word": "reciprocal",
+      "translation": "adj. 互惠的，相互的",
+      "level": "CET4"
+    },
+    {
+      "word": "recite",
+      "translation": "v. 背诵，朗诵",
+      "level": "CET4"
+    },
+    {
+      "word": "reckless",
+      "translation": "adj. 鲁莽的，不计后果的",
+      "level": "CET4"
+    },
+    {
+      "word": "reckon",
+      "translation": "v. 计算，认为",
+      "level": "CET4"
+    },
+    {
+      "word": "recognition",
+      "translation": "n. 认识，承认",
+      "level": "CET4"
+    },
+    {
+      "word": "recognize",
+      "translation": "v. 认出，承认",
+      "level": "CET4"
+    },
+    {
+      "word": "recommend",
+      "translation": "v. 推荐，建议",
+      "level": "CET4"
+    },
+    {
+      "word": "recommendation",
+      "translation": "n. 推荐，建议",
+      "level": "CET4"
+    },
+    {
+      "word": "record",
+      "translation": "n. 记录，v. 记录",
+      "level": "CET4"
+    },
+    {
+      "word": "recorder",
+      "translation": "n. 录音机，记录员",
+      "level": "CET4"
+    },
+    {
+      "word": "recover",
+      "translation": "v. 恢复，康复",
+      "level": "CET4"
+    },
+    {
+      "word": "recovery",
+      "translation": "n. 恢复，康复",
+      "level": "CET4"
+    },
+    {
+      "word": "recreation",
+      "translation": "n. 娱乐，消遣",
+      "level": "CET4"
+    },
+    {
+      "word": "recruit",
+      "translation": "v. 招募，n. 新兵",
+      "level": "CET4"
+    },
+    {
+      "word": "red",
+      "translation": "adj. 红色的，n. 红色",
+      "level": "CET4"
+    },
+    {
+      "word": "reduce",
+      "translation": "v. 减少，降低",
+      "level": "CET4"
+    },
+    {
+      "word": "reduction",
+      "translation": "n. 减少，降低",
+      "level": "CET4"
+    },
+    {
+      "word": "refer",
+      "translation": "v. 参考，涉及",
+      "level": "CET4"
+    },
+    {
+      "word": "reference",
+      "translation": "n. 参考，引用",
+      "level": "CET4"
+    },
+    {
+      "word": "refine",
+      "translation": "v. 精炼，提纯",
+      "level": "CET4"
+    },
+    {
+      "word": "reflect",
+      "translation": "v. 反映，反射",
+      "level": "CET4"
+    },
+    {
+      "word": "reflection",
+      "translation": "n. 反映，反射",
+      "level": "CET4"
+    },
+    {
+      "word": "reform",
+      "translation": "v. 改革，改良",
+      "level": "CET4"
+    },
+    {
+      "word": "refresh",
+      "translation": "v. 使恢复，使振作",
+      "level": "CET4"
+    },
+    {
+      "word": "refrigerator",
+      "translation": "n. 冰箱",
+      "level": "CET4"
+    },
+    {
+      "word": "refugee",
+      "translation": "n. 难民，流亡者",
+      "level": "CET4"
+    },
+    {
+      "word": "refusal",
+      "translation": "n. 拒绝，回绝",
+      "level": "CET4"
+    },
+    {
+      "word": "refuse",
+      "translation": "v. 拒绝，回绝",
+      "level": "CET4"
+    },
+    {
+      "word": "regard",
+      "translation": "v. 看待，认为",
+      "level": "CET4"
+    },
+    {
+      "word": "regarding",
+      "translation": "prep. 关于，至于",
+      "level": "CET4"
+    },
+    {
+      "word": "regardless",
+      "translation": "adv. 不管，不顾",
+      "level": "CET4"
+    },
+    {
+      "word": "region",
+      "translation": "n. 地区，区域",
+      "level": "CET4"
+    },
+    {
+      "word": "register",
+      "translation": "v. 登记，注册",
+      "level": "CET4"
+    },
+    {
+      "word": "regret",
+      "translation": "v. 后悔，遗憾",
+      "level": "CET4"
+    },
+    {
+      "word": "regular",
+      "translation": "adj. 规则的，定期的",
+      "level": "CET4"
+    },
+    {
+      "word": "regulate",
+      "translation": "v. 调节，控制",
+      "level": "CET4"
+    },
+    {
+      "word": "regulation",
+      "translation": "n. 规则，规章",
+      "level": "CET4"
+    },
+    {
+      "word": "reinforce",
+      "translation": "v. 加强，增强",
+      "level": "CET4"
+    },
+    {
+      "word": "reject",
+      "translation": "v. 拒绝，排斥",
+      "level": "CET4"
+    },
+    {
+      "word": "relate",
+      "translation": "v. 相关，讲述",
+      "level": "CET4"
+    },
+    {
+      "word": "relation",
+      "translation": "n. 关系，联系",
+      "level": "CET4"
+    },
+    {
+      "word": "relationship",
+      "translation": "n. 关系，联系",
+      "level": "CET4"
+    },
+    {
+      "word": "relative",
+      "translation": "adj. 相对的，n. 亲戚",
+      "level": "CET4"
+    },
+    {
+      "word": "relativity",
+      "translation": "n. 相对性，相对论",
+      "level": "CET4"
+    },
+    {
+      "word": "relax",
+      "translation": "v. 放松，休息",
+      "level": "CET4"
+    },
+    {
+      "word": "release",
+      "translation": "v. 释放，发布",
+      "level": "CET4"
+    },
+    {
+      "word": "relevant",
+      "translation": "adj. 相关的，有关的",
+      "level": "CET4"
+    },
+    {
+      "word": "reliability",
+      "translation": "n. 可靠性，可信度",
+      "level": "CET4"
+    },
+    {
+      "word": "reliable",
+      "translation": "adj. 可靠的，可信的",
+      "level": "CET4"
+    },
+    {
+      "word": "relief",
+      "translation": "n. 缓解，救济",
+      "level": "CET4"
+    },
+    {
+      "word": "relieve",
+      "translation": "v. 缓解，减轻",
+      "level": "CET4"
+    },
+    {
+      "word": "religion",
+      "translation": "n. 宗教，信仰",
+      "level": "CET4"
+    },
+    {
+      "word": "religious",
+      "translation": "adj. 宗教的，虔诚的",
+      "level": "CET4"
+    },
+    {
+      "word": "reluctant",
+      "translation": "adj. 不情愿的，勉强的",
+      "level": "CET4"
+    },
+    {
+      "word": "rely",
+      "translation": "v. 依赖，依靠",
+      "level": "CET4"
+    },
+    {
+      "word": "remain",
+      "translation": "v. 保持，剩余",
+      "level": "CET4"
+    },
+    {
+      "word": "remark",
+      "translation": "n. 评论，v. 评论",
+      "level": "CET4"
+    },
+    {
+      "word": "remarkable",
+      "translation": "adj. 显著的，非凡的",
+      "level": "CET4"
+    },
+    {
+      "word": "remedy",
+      "translation": "n. 补救，治疗",
+      "level": "CET4"
+    },
+    {
+      "word": "remember",
+      "translation": "v. 记得，记住",
+      "level": "CET4"
+    },
+    {
+      "word": "remind",
+      "translation": "v. 提醒，使想起",
+      "level": "CET4"
+    },
+    {
+      "word": "remote",
+      "translation": "adj. 遥远的，偏僻的",
+      "level": "CET4"
+    },
+    {
+      "word": "removal",
+      "translation": "n. 移动，除去",
+      "level": "CET4"
+    },
+    {
+      "word": "remove",
+      "translation": "v. 移动，除去",
+      "level": "CET4"
+    },
+    {
+      "word": "render",
+      "translation": "v. 提供，致使",
+      "level": "CET4"
+    },
+    {
+      "word": "renew",
+      "translation": "v. 更新，续期",
+      "level": "CET4"
+    },
+    {
+      "word": "rent",
+      "translation": "n. 租金，v. 出租",
+      "level": "CET4"
+    },
+    {
+      "word": "repair",
+      "translation": "v. 修理，修复",
+      "level": "CET4"
+    },
+    {
+      "word": "repeat",
+      "translation": "v. 重复，重做",
+      "level": "CET4"
+    },
+    {
+      "word": "repeatedly",
+      "translation": "adv. 重复地，再三地",
+      "level": "CET4"
+    },
+    {
+      "word": "repetition",
+      "translation": "n. 重复，反复",
+      "level": "CET4"
+    },
+    {
+      "word": "replace",
+      "translation": "v. 替换，取代",
+      "level": "CET4"
+    },
+    {
+      "word": "replacement",
+      "translation": "n. 替换，替代品",
+      "level": "CET4"
+    },
+    {
+      "word": "reply",
+      "translation": "v. 回答，回复",
+      "level": "CET4"
+    },
+    {
+      "word": "report",
+      "translation": "n. 报告，v. 报告",
+      "level": "CET4"
+    },
+    {
+      "word": "reporter",
+      "translation": "n. 记者，通讯员",
+      "level": "CET4"
+    },
+    {
+      "word": "represent",
+      "translation": "v. 代表，表现",
+      "level": "CET4"
+    },
+    {
+      "word": "representative",
+      "translation": "n. 代表，代理人",
+      "level": "CET4"
+    },
+    {
+      "word": "reproduce",
+      "translation": "v. 复制，繁殖",
+      "level": "CET4"
+    },
+    {
+      "word": "republic",
+      "translation": "n. 共和国，共和政体",
+      "level": "CET4"
+    },
+    {
+      "word": "republican",
+      "translation": "adj. 共和国的，n. 共和党人",
+      "level": "CET4"
+    },
+    {
+      "word": "reputation",
+      "translation": "n. 名声，声誉",
+      "level": "CET4"
+    },
+    {
+      "word": "request",
+      "translation": "n. 请求，要求",
+      "level": "CET4"
+    },
+    {
+      "word": "require",
+      "translation": "v. 需要，要求",
+      "level": "CET4"
+    },
+    {
+      "word": "requirement",
+      "translation": "n. 要求，必要条件",
+      "level": "CET4"
+    },
+    {
+      "word": "rescue",
+      "translation": "v. 营救，救援",
+      "level": "CET4"
+    },
+    {
+      "word": "research",
+      "translation": "n. 研究，调查",
+      "level": "CET4"
+    },
+    {
+      "word": "researcher",
+      "translation": "n. 研究员，调查者",
+      "level": "CET4"
+    },
+    {
+      "word": "resemble",
+      "translation": "v. 像，类似",
+      "level": "CET4"
+    },
+    {
+      "word": "resent",
+      "translation": "v. 怨恨，不满",
+      "level": "CET4"
+    },
+    {
+      "word": "reservation",
+      "translation": "n. 保留，预订",
+      "level": "CET4"
+    },
+    {
+      "word": "reserve",
+      "translation": "v. 保留，预订",
+      "level": "CET4"
+    },
+    {
+      "word": "reservoir",
+      "translation": "n. 水库，蓄水池",
+      "level": "CET4"
+    },
+    {
+      "word": "residence",
+      "translation": "n. 居住，住所",
+      "level": "CET4"
+    },
+    {
+      "word": "resident",
+      "translation": "n. 居民，adj. 居住的",
+      "level": "CET4"
+    },
+    {
+      "word": "resign",
+      "translation": "v. 辞职，放弃",
+      "level": "CET4"
+    },
+    {
+      "word": "resist",
+      "translation": "v. 抵抗，抵制",
+      "level": "CET4"
+    },
+    {
+      "word": "resistance",
+      "translation": "n. 抵抗，阻力",
+      "level": "CET4"
+    },
+    {
+      "word": "resistant",
+      "translation": "adj. 抵抗的，有抵抗力的",
+      "level": "CET4"
+    },
+    {
+      "word": "resolution",
+      "translation": "n. 决议，决心",
+      "level": "CET4"
+    },
+    {
+      "word": "resolve",
+      "translation": "v. 解决，决定",
+      "level": "CET4"
+    },
+    {
+      "word": "resort",
+      "translation": "n. 度假胜地，v. 求助",
+      "level": "CET4"
+    },
+    {
+      "word": "resource",
+      "translation": "n. 资源，财力",
+      "level": "CET4"
+    },
+    {
+      "word": "respect",
+      "translation": "n. 尊重，v. 尊重",
+      "level": "CET4"
+    },
+    {
+      "word": "respectable",
+      "translation": "adj. 可敬的，体面的",
+      "level": "CET4"
+    },
+    {
+      "word": "respectful",
+      "translation": "adj. 恭敬的，有礼貌的",
+      "level": "CET4"
+    },
+    {
+      "word": "respective",
+      "translation": "adj. 各自的，分别的",
+      "level": "CET4"
+    },
+    {
+      "word": "respond",
+      "translation": "v. 回答，响应",
+      "level": "CET4"
+    },
+    {
+      "word": "response",
+      "translation": "n. 回答，响应",
+      "level": "CET4"
+    },
+    {
+      "word": "responsibility",
+      "translation": "n. 责任，职责",
+      "level": "CET4"
+    },
+    {
+      "word": "responsible",
+      "translation": "adj. 负责的，有责任的",
+      "level": "CET4"
+    },
+    {
+      "word": "rest",
+      "translation": "n. 休息，剩余",
+      "level": "CET4"
+    },
+    {
+      "word": "restaurant",
+      "translation": "n. 餐厅，饭店",
+      "level": "CET4"
+    },
+    {
+      "word": "restless",
+      "translation": "adj. 不安的，焦躁的",
+      "level": "CET4"
+    },
+    {
+      "word": "restore",
+      "translation": "v. 恢复，修复",
+      "level": "CET4"
+    },
+    {
+      "word": "restrain",
+      "translation": "v. 抑制，限制",
+      "level": "CET4"
+    },
+    {
+      "word": "restraint",
+      "translation": "n. 抑制，限制",
+      "level": "CET4"
+    },
+    {
+      "word": "restrict",
+      "translation": "v. 限制，约束",
+      "level": "CET4"
+    },
+    {
+      "word": "restriction",
+      "translation": "n. 限制，约束",
+      "level": "CET4"
+    },
+    {
+      "word": "result",
+      "translation": "n. 结果，v. 导致",
+      "level": "CET4"
+    },
+    {
+      "word": "resume",
+      "translation": "v. 恢复，继续",
+      "level": "CET4"
+    },
+    {
+      "word": "retail",
+      "translation": "n. 零售，adj. 零售的",
+      "level": "CET4"
+    },
+    {
+      "word": "retain",
+      "translation": "v. 保留，保持",
+      "level": "CET4"
+    },
+    {
+      "word": "retire",
+      "translation": "v. 退休，退职",
+      "level": "CET4"
+    },
+    {
+      "word": "retreat",
+      "translation": "v. 撤退，退却",
+      "level": "CET4"
+    },
+    {
+      "word": "return",
+      "translation": "v. 返回，归还",
+      "level": "CET4"
+    },
+    {
+      "word": "reveal",
+      "translation": "v. 揭示，显示",
+      "level": "CET4"
+    },
+    {
+      "word": "revenue",
+      "translation": "n. 收入，收益",
+      "level": "CET4"
+    },
+    {
+      "word": "reverse",
+      "translation": "v. 反转，颠倒",
+      "level": "CET4"
+    },
+    {
+      "word": "review",
+      "translation": "n. 复习，评论",
+      "level": "CET4"
+    },
+    {
+      "word": "revise",
+      "translation": "v. 修订，修改",
+      "level": "CET4"
+    },
+    {
+      "word": "revolt",
+      "translation": "n. 反抗，v. 反抗",
+      "level": "CET4"
+    },
+    {
+      "word": "revolution",
+      "translation": "n. 革命，旋转",
+      "level": "CET4"
+    },
+    {
+      "word": "revolutionary",
+      "translation": "adj. 革命的，n. 革命者",
+      "level": "CET4"
+    },
+    {
+      "word": "reward",
+      "translation": "n. 奖励，报酬",
+      "level": "CET4"
+    },
+    {
+      "word": "rhythm",
+      "translation": "n. 节奏，韵律",
+      "level": "CET4"
+    },
+    {
+      "word": "rib",
+      "translation": "n. 肋骨，肋条",
+      "level": "CET4"
+    },
+    {
+      "word": "ribbon",
+      "translation": "n. 丝带，缎带",
+      "level": "CET4"
+    },
+    {
+      "word": "rice",
+      "translation": "n. 稻，米",
+      "level": "CET4"
+    },
+    {
+      "word": "rich",
+      "translation": "adj. 富有的，丰富的",
+      "level": "CET4"
+    },
+    {
+      "word": "rid",
+      "translation": "v. 使摆脱，使去掉",
+      "level": "CET4"
+    },
+    {
+      "word": "ride",
+      "translation": "v. 骑，乘",
+      "level": "CET4"
+    },
+    {
+      "word": "ridge",
+      "translation": "n. 山脊，山脉",
+      "level": "CET4"
+    },
+    {
+      "word": "ridiculous",
+      "translation": "adj. 荒谬的，可笑的",
+      "level": "CET4"
+    },
+    {
+      "word": "rifle",
+      "translation": "n. 步枪",
+      "level": "CET4"
+    },
+    {
+      "word": "right",
+      "translation": "adj. 正确的，n. 权利",
+      "level": "CET4"
+    },
+    {
+      "word": "rigid",
+      "translation": "adj. 僵硬的，严格的",
+      "level": "CET4"
+    },
+    {
+      "word": "ring",
+      "translation": "n. 戒指，铃声",
+      "level": "CET4"
+    },
+    {
+      "word": "riot",
+      "translation": "n. 暴乱，骚动",
+      "level": "CET4"
+    },
+    {
+      "word": "ripe",
+      "translation": "adj. 成熟的，时机成熟的",
+      "level": "CET4"
+    },
+    {
+      "word": "rise",
+      "translation": "v. 上升，升起",
+      "level": "CET4"
+    },
+    {
+      "word": "risk",
+      "translation": "n. 风险，危险",
+      "level": "CET4"
+    },
+    {
+      "word": "rival",
+      "translation": "n. 对手，竞争者",
+      "level": "CET4"
+    },
+    {
+      "word": "river",
+      "translation": "n. 河流，江",
+      "level": "CET4"
+    },
+    {
+      "word": "road",
+      "translation": "n. 道路，公路",
+      "level": "CET4"
+    },
+    {
+      "word": "roar",
+      "translation": "v. 咆哮，轰鸣",
+      "level": "CET4"
+    },
+    {
+      "word": "roast",
+      "translation": "v. 烤，烘",
+      "level": "CET4"
+    },
+    {
+      "word": "rob",
+      "translation": "v. 抢劫，盗窃",
+      "level": "CET4"
+    },
+    {
+      "word": "robot",
+      "translation": "n. 机器人",
+      "level": "CET4"
+    },
+    {
+      "word": "rock",
+      "translation": "n. 岩石，摇滚乐",
+      "level": "CET4"
+    },
+    {
+      "word": "rocket",
+      "translation": "n. 火箭",
+      "level": "CET4"
+    },
+    {
+      "word": "rod",
+      "translation": "n. 杆，棒",
+      "level": "CET4"
+    },
+    {
+      "word": "role",
+      "translation": "n. 角色，作用",
+      "level": "CET4"
+    },
+    {
+      "word": "roll",
+      "translation": "v. 滚动，卷起",
+      "level": "CET4"
+    },
+    {
+      "word": "roller",
+      "translation": "n. 滚筒，滚轴",
+      "level": "CET4"
+    },
+    {
+      "word": "romantic",
+      "translation": "adj. 浪漫的，n. 浪漫主义者",
+      "level": "CET4"
+    },
+    {
+      "word": "roof",
+      "translation": "n. 屋顶，顶部",
+      "level": "CET4"
+    },
+    {
+      "word": "room",
+      "translation": "n. 房间，空间",
+      "level": "CET4"
+    },
+    {
+      "word": "root",
+      "translation": "n. 根，根源",
+      "level": "CET4"
+    },
+    {
+      "word": "rope",
+      "translation": "n. 绳子，绳索",
+      "level": "CET4"
+    },
+    {
+      "word": "rose",
+      "translation": "n. 玫瑰，蔷薇",
+      "level": "CET4"
+    },
+    {
+      "word": "rotate",
+      "translation": "v. 旋转，轮流",
+      "level": "CET4"
+    },
+    {
+      "word": "rotten",
+      "translation": "adj. 腐烂的，腐败的",
+      "level": "CET4"
+    },
+    {
+      "word": "rough",
+      "translation": "adj. 粗糙的，粗略的",
+      "level": "CET4"
+    },
+    {
+      "word": "round",
+      "translation": "adj. 圆的，n. 回合",
+      "level": "CET4"
+    },
+    {
+      "word": "rouse",
+      "translation": "v. 唤醒，激起",
+      "level": "CET4"
+    },
+    {
+      "word": "route",
+      "translation": "n. 路线，路程",
+      "level": "CET4"
+    },
+    {
+      "word": "routine",
+      "translation": "n. 例行公事，常规",
+      "level": "CET4"
+    },
+    {
+      "word": "row",
+      "translation": "n. 行，排",
+      "level": "CET4"
+    },
+    {
+      "word": "royal",
+      "translation": "adj. 皇家的，王室的",
+      "level": "CET4"
+    },
+    {
+      "word": "rub",
+      "translation": "v. 擦，摩擦",
+      "level": "CET4"
+    },
+    {
+      "word": "rubber",
+      "translation": "n. 橡胶，橡皮",
+      "level": "CET4"
+    },
+    {
+      "word": "rubbish",
+      "translation": "n. 垃圾，废物",
+      "level": "CET4"
+    },
+    {
+      "word": "rude",
+      "translation": "adj. 粗鲁的，无礼的",
+      "level": "CET4"
+    },
+    {
+      "word": "rug",
+      "translation": "n. 地毯，垫子",
+      "level": "CET4"
+    },
+    {
+      "word": "ruin",
+      "translation": "v. 毁灭，n. 废墟",
+      "level": "CET4"
+    },
+    {
+      "word": "rule",
+      "translation": "n. 规则，统治",
+      "level": "CET4"
+    },
+    {
+      "word": "ruler",
+      "translation": "n. 统治者，尺子",
+      "level": "CET4"
+    },
+    {
+      "word": "rumor",
+      "translation": "n. 谣言，传闻",
+      "level": "CET4"
+    },
+    {
+      "word": "run",
+      "translation": "v. 跑，经营",
+      "level": "CET4"
+    },
+    {
+      "word": "rural",
+      "translation": "adj. 农村的，乡村的",
+      "level": "CET4"
+    },
+    {
+      "word": "rush",
+      "translation": "v. 冲，奔",
+      "level": "CET4"
+    },
+    {
+      "word": "rust",
+      "translation": "n. 锈，v. 生锈",
+      "level": "CET4"
+    },
+    {
+      "word": "sack",
+      "translation": "n. 麻袋，解雇",
+      "level": "CET4"
+    },
+    {
+      "word": "sacred",
+      "translation": "adj. 神圣的，宗教的",
+      "level": "CET4"
+    },
+    {
+      "word": "sacrifice",
+      "translation": "n. 牺牲，v. 牺牲",
+      "level": "CET4"
+    },
+    {
+      "word": "sad",
+      "translation": "adj. 悲伤的，难过的",
+      "level": "CET4"
+    },
+    {
+      "word": "saddle",
+      "translation": "n. 马鞍，鞍座",
+      "level": "CET4"
+    },
+    {
+      "word": "safe",
+      "translation": "adj. 安全的，n. 保险箱",
+      "level": "CET4"
+    },
+    {
+      "word": "safety",
+      "translation": "n. 安全，保险",
+      "level": "CET4"
+    },
+    {
+      "word": "sail",
+      "translation": "n. 帆，v. 航行",
+      "level": "CET4"
+    },
+    {
+      "word": "sailor",
+      "translation": "n. 水手，海员",
+      "level": "CET4"
+    },
+    {
+      "word": "saint",
+      "translation": "n. 圣人，圣徒",
+      "level": "CET4"
+    },
+    {
+      "word": "sake",
+      "translation": "n. 缘故，理由",
+      "level": "CET4"
+    },
+    {
+      "word": "salad",
+      "translation": "n. 沙拉，凉拌菜",
+      "level": "CET4"
+    },
+    {
+      "word": "salary",
+      "translation": "n. 薪水，工资",
+      "level": "CET4"
+    },
+    {
+      "word": "sale",
+      "translation": "n. 销售，出售",
+      "level": "CET4"
+    },
+    {
+      "word": "salesman",
+      "translation": "n. 售货员，推销员",
+      "level": "CET4"
+    },
+    {
+      "word": "salt",
+      "translation": "n. 盐，v. 加盐",
+      "level": "CET4"
+    },
+    {
+      "word": "same",
+      "translation": "adj. 相同的，同样的",
+      "level": "CET4"
+    },
+    {
+      "word": "sample",
+      "translation": "n. 样品，样本",
+      "level": "CET4"
+    },
+    {
+      "word": "sand",
+      "translation": "n. 沙子，沙滩",
+      "level": "CET4"
+    },
+    {
+      "word": "sandwich",
+      "translation": "n. 三明治",
+      "level": "CET4"
+    },
+    {
+      "word": "satellite",
+      "translation": "n. 卫星，人造卫星",
+      "level": "CET4"
+    },
+    {
+      "word": "satisfaction",
+      "translation": "n. 满意，满足",
+      "level": "CET4"
+    },
+    {
+      "word": "satisfactory",
+      "translation": "adj. 令人满意的",
+      "level": "CET4"
+    },
+    {
+      "word": "satisfy",
+      "translation": "v. 使满意，满足",
+      "level": "CET4"
+    },
+    {
+      "word": "Saturday",
+      "translation": "n. 星期六",
+      "level": "CET4"
+    },
+    {
+      "word": "sauce",
+      "translation": "n. 酱汁，调味汁",
+      "level": "CET4"
+    },
+    {
+      "word": "saucer",
+      "translation": "n. 茶托，碟子",
+      "level": "CET4"
+    },
+    {
+      "word": "sausage",
+      "translation": "n. 香肠，腊肠",
+      "level": "CET4"
+    },
+    {
+      "word": "save",
+      "translation": "v. 节省，保存",
+      "level": "CET4"
+    },
+    {
+      "word": "saving",
+      "translation": "n. 节省，储蓄",
+      "level": "CET4"
+    },
+    {
+      "word": "scope",
+      "translation": "n. 范围，视野",
+      "level": "CET4"
+    },
+    {
+      "word": "score",
+      "translation": "n. 分数，得分",
+      "level": "CET4"
+    },
+    {
+      "word": "scorn",
+      "translation": "n. 轻蔑，v. 蔑视",
+      "level": "CET4"
+    },
+    {
+      "word": "scout",
+      "translation": "n. 侦察员，童子军",
+      "level": "CET4"
+    },
+    {
+      "word": "scrape",
+      "translation": "v. 刮，擦",
+      "level": "CET4"
+    },
+    {
+      "word": "scratch",
+      "translation": "v. 抓，刮",
+      "level": "CET4"
+    },
+    {
+      "word": "scream",
+      "translation": "v. 尖叫，n. 尖叫声",
+      "level": "CET4"
+    },
+    {
+      "word": "screen",
+      "translation": "n. 屏幕，屏风",
+      "level": "CET4"
+    },
+    {
+      "word": "screw",
+      "translation": "n. 螺丝，v. 拧紧",
+      "level": "CET4"
+    },
+    {
+      "word": "script",
+      "translation": "n. 脚本，剧本",
+      "level": "CET4"
+    },
+    {
+      "word": "sea",
+      "translation": "n. 海洋，海",
+      "level": "CET4"
+    },
+    {
+      "word": "seal",
+      "translation": "n. 海豹，印章",
+      "level": "CET4"
+    },
+    {
+      "word": "search",
+      "translation": "v. 搜索，寻找",
+      "level": "CET4"
+    },
+    {
+      "word": "season",
+      "translation": "n. 季节，时期",
+      "level": "CET4"
+    },
+    {
+      "word": "seat",
+      "translation": "n. 座位，席位",
+      "level": "CET4"
+    },
+    {
+      "word": "second",
+      "translation": "num. 第二，n. 秒",
+      "level": "CET4"
+    },
+    {
+      "word": "secondary",
+      "translation": "adj. 次要的，第二的",
+      "level": "CET4"
+    },
+    {
+      "word": "secret",
+      "translation": "adj. 秘密的，n. 秘密",
+      "level": "CET4"
+    },
+    {
+      "word": "secretary",
+      "translation": "n. 秘书，书记",
+      "level": "CET4"
+    },
+    {
+      "word": "section",
+      "translation": "n. 部分，章节",
+      "level": "CET4"
+    },
+    {
+      "word": "senior",
+      "translation": "adj. 年长的，高级的",
+      "level": "CET4"
+    },
+    {
+      "word": "sense",
+      "translation": "n. 感觉，意识",
+      "level": "CET4"
+    },
+    {
+      "word": "sensible",
+      "translation": "adj. 明智的，合理的",
+      "level": "CET4"
+    },
+    {
+      "word": "sensitive",
+      "translation": "adj. 敏感的，灵敏的",
+      "level": "CET4"
+    },
+    {
+      "word": "sentence",
+      "translation": "n. 句子，判决",
+      "level": "CET4"
+    },
+    {
+      "word": "separate",
+      "translation": "adj. 分开的，v. 分离",
+      "level": "CET4"
+    },
+    {
+      "word": "September",
+      "translation": "n. 九月",
+      "level": "CET4"
+    },
+    {
+      "word": "sequence",
+      "translation": "n. 顺序，序列",
+      "level": "CET4"
+    },
+    {
+      "word": "series",
+      "translation": "n. 系列，连续",
+      "level": "CET4"
+    },
+    {
+      "word": "serious",
+      "translation": "adj. 严肃的，严重的",
+      "level": "CET4"
+    },
+    {
+      "word": "servant",
+      "translation": "n. 仆人，佣人",
+      "level": "CET4"
+    },
+    {
+      "word": "serve",
+      "translation": "v. 服务，服役",
+      "level": "CET4"
+    },
+    {
+      "word": "service",
+      "translation": "n. 服务，服役",
+      "level": "CET4"
+    },
+    {
+      "word": "session",
+      "translation": "n. 会议，学期",
+      "level": "CET4"
+    },
+    {
+      "word": "set",
+      "translation": "v. 设置，放置",
+      "level": "CET4"
+    },
+    {
+      "word": "setting",
+      "translation": "n. 环境，背景",
+      "level": "CET4"
+    },
+    {
+      "word": "settle",
+      "translation": "v. 解决，定居",
+      "level": "CET4"
+    },
+    {
+      "word": "settlement",
+      "translation": "n. 解决，定居点",
+      "level": "CET4"
+    },
+    {
+      "word": "seven",
+      "translation": "num. 七",
+      "level": "CET4"
+    },
+    {
+      "word": "seventeen",
+      "translation": "num. 十七",
+      "level": "CET4"
+    },
+    {
+      "word": "seventy",
+      "translation": "num. 七十",
+      "level": "CET4"
+    },
+    {
+      "word": "several",
+      "translation": "adj. 几个，数个",
+      "level": "CET4"
+    },
+    {
+      "word": "severe",
+      "translation": "adj. 严重的，严厉的",
+      "level": "CET4"
+    },
+    {
+      "word": "sew",
+      "translation": "v. 缝，缝纫",
+      "level": "CET4"
+    },
+    {
+      "word": "sex",
+      "translation": "n. 性别，性",
+      "level": "CET4"
+    },
+    {
+      "word": "sexual",
+      "translation": "adj. 性的，性别的",
+      "level": "CET4"
+    },
+    {
+      "word": "shade",
+      "translation": "n. 阴影，遮阳",
+      "level": "CET4"
+    },
+    {
+      "word": "shadow",
+      "translation": "n. 影子，阴影",
+      "level": "CET4"
+    },
+    {
+      "word": "shake",
+      "translation": "v. 摇动，震动",
+      "level": "CET4"
+    },
+    {
+      "word": "shall",
+      "translation": "aux. 将，会",
+      "level": "CET4"
+    },
+    {
+      "word": "shallow",
+      "translation": "adj. 浅的，肤浅的",
+      "level": "CET4"
+    },
+    {
+      "word": "shame",
+      "translation": "n. 羞耻，耻辱",
+      "level": "CET4"
+    },
+    {
+      "word": "shape",
+      "translation": "n. 形状，v. 形成",
+      "level": "CET4"
+    },
+    {
+      "word": "share",
+      "translation": "v. 分享，n. 份额",
+      "level": "CET4"
+    },
+    {
+      "word": "sharp",
+      "translation": "adj. 锋利的，尖锐的",
+      "level": "CET4"
+    },
+    {
+      "word": "shave",
+      "translation": "v. 刮，剃",
+      "level": "CET4"
+    },
+    {
+      "word": "she",
+      "translation": "pron. 她",
+      "level": "CET4"
+    },
+    {
+      "word": "sheep",
+      "translation": "n. 羊，绵羊",
+      "level": "CET4"
+    },
+    {
+      "word": "sheet",
+      "translation": "n. 床单，纸张",
+      "level": "CET4"
+    },
+    {
+      "word": "shelf",
+      "translation": "n. 架子，搁板",
+      "level": "CET4"
+    },
+    {
+      "word": "show",
+      "translation": "v. 显示，展示",
+      "level": "CET4"
+    },
+    {
+      "word": "shower",
+      "translation": "n. 淋浴，阵雨",
+      "level": "CET4"
+    },
+    {
+      "word": "shrink",
+      "translation": "v. 收缩，退缩",
+      "level": "CET4"
+    },
+    {
+      "word": "shut",
+      "translation": "v. 关闭，合上",
+      "level": "CET4"
+    },
+    {
+      "word": "shy",
+      "translation": "adj. 害羞的，胆怯的",
+      "level": "CET4"
+    },
+    {
+      "word": "sick",
+      "translation": "adj. 生病的，恶心的",
+      "level": "CET4"
+    },
+    {
+      "word": "side",
+      "translation": "n. 边，侧面",
+      "level": "CET4"
+    },
+    {
+      "word": "sideways",
+      "translation": "adv. 向侧面，斜着",
+      "level": "CET4"
+    },
+    {
+      "word": "sigh",
+      "translation": "v. 叹气，叹息",
+      "level": "CET4"
+    },
+    {
+      "word": "sight",
+      "translation": "n. 视力，景象",
+      "level": "CET4"
+    },
+    {
+      "word": "sightseeing",
+      "translation": "n. 观光，游览",
+      "level": "CET4"
+    },
+    {
+      "word": "sign",
+      "translation": "n. 标志，符号",
+      "level": "CET4"
+    },
+    {
+      "word": "signal",
+      "translation": "n. 信号，标志",
+      "level": "CET4"
+    },
+    {
+      "word": "signature",
+      "translation": "n. 签名，署名",
+      "level": "CET4"
+    },
+    {
+      "word": "significance",
+      "translation": "n. 重要性，意义",
+      "level": "CET4"
+    },
+    {
+      "word": "significant",
+      "translation": "adj. 重要的，显著的",
+      "level": "CET4"
+    },
+    {
+      "word": "silence",
+      "translation": "n. 沉默，寂静",
+      "level": "CET4"
+    },
+    {
+      "word": "silent",
+      "translation": "adj. 沉默的，寂静的",
+      "level": "CET4"
+    },
+    {
+      "word": "silk",
+      "translation": "n. 丝绸，丝织品",
+      "level": "CET4"
+    },
+    {
+      "word": "silly",
+      "translation": "adj. 愚蠢的，傻的",
+      "level": "CET4"
+    },
+    {
+      "word": "silver",
+      "translation": "n. 银，银器",
+      "level": "CET4"
+    },
+    {
+      "word": "similar",
+      "translation": "adj. 相似的，类似的",
+      "level": "CET4"
+    },
+    {
+      "word": "simple",
+      "translation": "adj. 简单的，朴素的",
+      "level": "CET4"
+    },
+    {
+      "word": "simplicity",
+      "translation": "n. 简单，朴素",
+      "level": "CET4"
+    },
+    {
+      "word": "simplify",
+      "translation": "v. 简化，使简单",
+      "level": "CET4"
+    },
+    {
+      "word": "simply",
+      "translation": "adv. 简单地，仅仅",
+      "level": "CET4"
+    },
+    {
+      "word": "sin",
+      "translation": "n. 罪，罪恶",
+      "level": "CET4"
+    },
+    {
+      "word": "since",
+      "translation": "prep. 自从，conj. 因为",
+      "level": "CET4"
+    },
+    {
+      "word": "sincere",
+      "translation": "adj. 真诚的，诚挚的",
+      "level": "CET4"
+    },
+    {
+      "word": "sing",
+      "translation": "v. 唱歌，演唱",
+      "level": "CET4"
+    },
+    {
+      "word": "singer",
+      "translation": "n. 歌手，歌唱家",
+      "level": "CET4"
+    },
+    {
+      "word": "single",
+      "translation": "adj. 单一的，单身的",
+      "level": "CET4"
+    },
+    {
+      "word": "singular",
+      "translation": "adj. 单数的，非凡的",
+      "level": "CET4"
+    },
+    {
+      "word": "sink",
+      "translation": "v. 下沉，沉没",
+      "level": "CET4"
+    },
+    {
+      "word": "sir",
+      "translation": "n. 先生，阁下",
+      "level": "CET4"
+    },
+    {
+      "word": "sister",
+      "translation": "n. 姐妹，修女",
+      "level": "CET4"
+    },
+    {
+      "word": "sit",
+      "translation": "v. 坐，就座",
+      "level": "CET4"
+    },
+    {
+      "word": "site",
+      "translation": "n. 地点，场所",
+      "level": "CET4"
+    },
+    {
+      "word": "situation",
+      "translation": "n. 情况，形势",
+      "level": "CET4"
+    },
+    {
+      "word": "six",
+      "translation": "num. 六",
+      "level": "CET4"
+    },
+    {
+      "word": "sixteen",
+      "translation": "num. 十六",
+      "level": "CET4"
+    },
+    {
+      "word": "sixty",
+      "translation": "num. 六十",
+      "level": "CET4"
+    },
+    {
+      "word": "size",
+      "translation": "n. 大小，尺寸",
+      "level": "CET4"
+    },
+    {
+      "word": "skate",
+      "translation": "v. 滑冰，溜冰",
+      "level": "CET4"
+    },
+    {
+      "word": "sketch",
+      "translation": "n. 素描，草图",
+      "level": "CET4"
+    },
+    {
+      "word": "ski",
+      "translation": "n. 滑雪板，v. 滑雪",
+      "level": "CET4"
+    },
+    {
+      "word": "skill",
+      "translation": "n. 技能，技巧",
+      "level": "CET4"
+    },
+    {
+      "word": "skilled",
+      "translation": "adj. 熟练的，有技能的",
+      "level": "CET4"
+    },
+    {
+      "word": "skillful",
+      "translation": "adj. 熟练的，灵巧的",
+      "level": "CET4"
+    },
+    {
+      "word": "skim",
+      "translation": "v. 略读，浏览",
+      "level": "CET4"
+    },
+    {
+      "word": "skin",
+      "translation": "n. 皮肤，外皮",
+      "level": "CET4"
+    },
+    {
+      "word": "skirt",
+      "translation": "n. 裙子，边缘",
+      "level": "CET4"
+    },
+    {
+      "word": "sky",
+      "translation": "n. 天空，天",
+      "level": "CET4"
+    },
+    {
+      "word": "slam",
+      "translation": "v. 砰地关上，猛击",
+      "level": "CET4"
+    },
+    {
+      "word": "slave",
+      "translation": "n. 奴隶，苦工",
+      "level": "CET4"
+    },
+    {
+      "word": "sleep",
+      "translation": "v. 睡觉，n. 睡眠",
+      "level": "CET4"
+    },
+    {
+      "word": "sleeve",
+      "translation": "n. 袖子，袖套",
+      "level": "CET4"
+    },
+    {
+      "word": "slender",
+      "translation": "adj. 苗条的，细长的",
+      "level": "CET4"
+    },
+    {
+      "word": "slice",
+      "translation": "n. 薄片，切片",
+      "level": "CET4"
+    },
+    {
+      "word": "slide",
+      "translation": "v. 滑动，滑行",
+      "level": "CET4"
+    },
+    {
+      "word": "slight",
+      "translation": "adj. 轻微的，微小的",
+      "level": "CET4"
+    },
+    {
+      "word": "slim",
+      "translation": "adj. 苗条的，细长的",
+      "level": "CET4"
+    },
+    {
+      "word": "slip",
+      "translation": "v. 滑倒，滑落",
+      "level": "CET4"
+    },
+    {
+      "word": "slipper",
+      "translation": "n. 拖鞋，便鞋",
+      "level": "CET4"
+    },
+    {
+      "word": "slippery",
+      "translation": "adj. 滑的，狡猾的",
+      "level": "CET4"
+    },
+    {
+      "word": "slope",
+      "translation": "n. 斜坡，斜面",
+      "level": "CET4"
+    },
+    {
+      "word": "slow",
+      "translation": "adj. 慢的，缓慢的",
+      "level": "CET4"
+    },
+    {
+      "word": "small",
+      "translation": "adj. 小的，少的",
+      "level": "CET4"
+    },
+    {
+      "word": "smart",
+      "translation": "adj. 聪明的，时髦的",
+      "level": "CET4"
+    },
+    {
+      "word": "smash",
+      "translation": "v. 打碎，粉碎",
+      "level": "CET4"
+    },
+    {
+      "word": "smell",
+      "translation": "n. 气味，v. 闻",
+      "level": "CET4"
+    },
+    {
+      "word": "smile",
+      "translation": "n. 微笑，v. 微笑",
+      "level": "CET4"
+    },
+    {
+      "word": "smoke",
+      "translation": "n. 烟，v. 吸烟",
+      "level": "CET4"
+    },
+    {
+      "word": "smooth",
+      "translation": "adj. 平滑的，顺利的",
+      "level": "CET4"
+    },
+    {
+      "word": "snake",
+      "translation": "n. 蛇",
+      "level": "CET4"
+    },
+    {
+      "word": "snap",
+      "translation": "v. 折断，突然断裂",
+      "level": "CET4"
+    },
+    {
+      "word": "snow",
+      "translation": "n. 雪，v. 下雪",
+      "level": "CET4"
+    },
+    {
+      "word": "so",
+      "translation": "adv. 如此，这样",
+      "level": "CET4"
+    },
+    {
+      "word": "soak",
+      "translation": "v. 浸泡，浸透",
+      "level": "CET4"
+    },
+    {
+      "word": "soap",
+      "translation": "n. 肥皂",
+      "level": "CET4"
+    },
+    {
+      "word": "social",
+      "translation": "adj. 社会的，社交的",
+      "level": "CET4"
+    },
+    {
+      "word": "socialism",
+      "translation": "n. 社会主义",
+      "level": "CET4"
+    },
+    {
+      "word": "socialist",
+      "translation": "n. 社会主义者",
+      "level": "CET4"
+    },
+    {
+      "word": "society",
+      "translation": "n. 社会，社团",
+      "level": "CET4"
+    },
+    {
+      "word": "sock",
+      "translation": "n. 短袜，袜子",
+      "level": "CET4"
+    },
+    {
+      "word": "soda",
+      "translation": "n. 苏打，汽水",
+      "level": "CET4"
+    },
+    {
+      "word": "sofa",
+      "translation": "n. 沙发",
+      "level": "CET4"
+    },
+    {
+      "word": "soft",
+      "translation": "adj. 软的，柔软的",
+      "level": "CET4"
+    },
+    {
+      "word": "software",
+      "translation": "n. 软件",
+      "level": "CET4"
+    },
+    {
+      "word": "soil",
+      "translation": "n. 土壤，土地",
+      "level": "CET4"
+    },
+    {
+      "word": "soap",
+      "translation": "n. 肥皂",
+      "level": "CET4"
+    },
+    {
+      "word": "someone",
+      "translation": "pron. 某人，有人",
+      "level": "CET4"
+    },
+    {
+      "word": "something",
+      "translation": "pron. 某事，某物",
+      "level": "CET4"
+    },
+    {
+      "word": "sometime",
+      "translation": "adv. 某个时候",
+      "level": "CET4"
+    },
+    {
+      "word": "sometimes",
+      "translation": "adv. 有时，偶尔",
+      "level": "CET4"
+    },
+    {
+      "word": "somewhat",
+      "translation": "adv. 有点，稍微",
+      "level": "CET4"
+    },
+    {
+      "word": "somewhere",
+      "translation": "adv. 某处，在某处",
+      "level": "CET4"
+    },
+    {
+      "word": "son",
+      "translation": "n. 儿子",
+      "level": "CET4"
+    },
+    {
+      "word": "song",
+      "translation": "n. 歌曲，歌唱",
+      "level": "CET4"
+    },
+    {
+      "word": "soon",
+      "translation": "adv. 很快，不久",
+      "level": "CET4"
+    },
+    {
+      "word": "sophisticated",
+      "translation": "adj. 复杂的，老练的",
+      "level": "CET4"
+    },
+    {
+      "word": "sore",
+      "translation": "adj. 疼痛的，n. 痛处",
+      "level": "CET4"
+    },
+    {
+      "word": "sorrow",
+      "translation": "n. 悲伤，悲痛",
+      "level": "CET4"
+    },
+    {
+      "word": "sorry",
+      "translation": "adj. 抱歉的，遗憾的",
+      "level": "CET4"
+    },
+    {
+      "word": "sort",
+      "translation": "n. 种类，v. 分类",
+      "level": "CET4"
+    },
+    {
+      "word": "soul",
+      "translation": "n. 灵魂，心灵",
+      "level": "CET4"
+    },
+    {
+      "word": "sound",
+      "translation": "n. 声音，v. 听起来",
+      "level": "CET4"
+    },
+    {
+      "word": "soup",
+      "translation": "n. 汤，羹",
+      "level": "CET4"
+    },
+    {
+      "word": "sour",
+      "translation": "adj. 酸的，酸味的",
+      "level": "CET4"
+    },
+    {
+      "word": "source",
+      "translation": "n. 来源，源头",
+      "level": "CET4"
+    },
+    {
+      "word": "south",
+      "translation": "n. 南方，南部",
+      "level": "CET4"
+    },
+    {
+      "word": "southeast",
+      "translation": "n. 东南，东南部",
+      "level": "CET4"
+    },
+    {
+      "word": "southern",
+      "translation": "adj. 南方的，南部的",
+      "level": "CET4"
+    },
+    {
+      "word": "southwest",
+      "translation": "n. 西南，西南部",
+      "level": "CET4"
+    },
+    {
+      "word": "sow",
+      "translation": "v. 播种，散布",
+      "level": "CET4"
+    },
+    {
+      "word": "space",
+      "translation": "n. 空间，太空",
+      "level": "CET4"
+    },
+    {
+      "word": "spacecraft",
+      "translation": "n. 宇宙飞船",
+      "level": "CET4"
+    },
+    {
+      "word": "spade",
+      "translation": "n. 铲子，铁锹",
+      "level": "CET4"
+    },
+    {
+      "word": "span",
+      "translation": "n. 跨度，范围",
+      "level": "CET4"
+    },
+    {
+      "word": "Spanish",
+      "translation": "adj. 西班牙的，n. 西班牙语",
+      "level": "CET4"
+    },
+    {
+      "word": "spare",
+      "translation": "adj. 多余的，v. 节省",
+      "level": "CET4"
+    },
+    {
+      "word": "spark",
+      "translation": "n. 火花，火星",
+      "level": "CET4"
+    },
+    {
+      "word": "speak",
+      "translation": "v. 说话，讲话",
+      "level": "CET4"
+    },
+    {
+      "word": "speaker",
+      "translation": "n. 说话者，扬声器",
+      "level": "CET4"
+    },
+    {
+      "word": "special",
+      "translation": "adj. 特殊的，特别的",
+      "level": "CET4"
+    },
+    {
+      "word": "specialist",
+      "translation": "n. 专家，专科医生",
+      "level": "CET4"
+    },
+    {
+      "word": "specialize",
+      "translation": "v. 专门研究，专攻",
+      "level": "CET4"
+    },
+    {
+      "word": "species",
+      "translation": "n. 物种，种类",
+      "level": "CET4"
+    },
+    {
+      "word": "specific",
+      "translation": "adj. 特定的，具体的",
+      "level": "CET4"
+    },
+    {
+      "word": "specify",
+      "translation": "v. 指定，详细说明",
+      "level": "CET4"
+    },
+    {
+      "word": "specimen",
+      "translation": "n. 标本，样本",
+      "level": "CET4"
+    },
+    {
+      "word": "spectacle",
+      "translation": "n. 景象，壮观",
+      "level": "CET4"
+    },
+    {
+      "word": "spectacular",
+      "translation": "adj. 壮观的，惊人的",
+      "level": "CET4"
+    },
+    {
+      "word": "spectator",
+      "translation": "n. 观众，旁观者",
+      "level": "CET4"
+    },
+    {
+      "word": "speculate",
+      "translation": "v. 推测，投机",
+      "level": "CET4"
+    },
+    {
+      "word": "speech",
+      "translation": "n. 演讲，讲话",
+      "level": "CET4"
+    },
+    {
+      "word": "speed",
+      "translation": "n. 速度，v. 加速",
+      "level": "CET4"
+    },
+    {
+      "word": "spell",
+      "translation": "v. 拼写，n. 咒语",
+      "level": "CET4"
+    },
+    {
+      "word": "spelling",
+      "translation": "n. 拼写，拼法",
+      "level": "CET4"
+    },
+    {
+      "word": "spend",
+      "translation": "v. 花费，度过",
+      "level": "CET4"
+    },
+    {
+      "word": "sphere",
+      "translation": "n. 球体，范围",
+      "level": "CET4"
+    },
+    {
+      "word": "spider",
+      "translation": "n. 蜘蛛",
+      "level": "CET4"
+    },
+    {
+      "word": "spill",
+      "translation": "v. 溢出，洒出",
+      "level": "CET4"
+    },
+    {
+      "word": "spin",
+      "translation": "v. 旋转，纺纱",
+      "level": "CET4"
+    },
+    {
+      "word": "spirit",
+      "translation": "n. 精神，灵魂",
+      "level": "CET4"
+    },
+    {
+      "word": "spiritual",
+      "translation": "adj. 精神的，心灵的",
+      "level": "CET4"
+    },
+    {
+      "word": "spit",
+      "translation": "v. 吐痰，吐出",
+      "level": "CET4"
+    },
+    {
+      "word": "spite",
+      "translation": "n. 恶意，怨恨",
+      "level": "CET4"
+    },
+    {
+      "word": "splash",
+      "translation": "v. 溅，泼",
+      "level": "CET4"
+    },
+    {
+      "word": "splendid",
+      "translation": "adj. 辉煌的，极好的",
+      "level": "CET4"
+    },
+    {
+      "word": "specimen",
+      "translation": "n. 标本，样本",
+      "level": "CET4"
+    },
+    {
+      "word": "spoil",
+      "translation": "v. 损坏，溺爱",
+      "level": "CET4"
+    },
+    {
+      "word": "spokesman",
+      "translation": "n. 发言人，代言人",
+      "level": "CET4"
+    },
+    {
+      "word": "sponge",
+      "translation": "n. 海绵，v. 用海绵擦",
+      "level": "CET4"
+    },
+    {
+      "word": "sponsor",
+      "translation": "n. 赞助者，v. 赞助",
+      "level": "CET4"
+    },
+    {
+      "word": "spontaneous",
+      "translation": "adj. 自发的，自然的",
+      "level": "CET4"
+    },
+    {
+      "word": "spoon",
+      "translation": "n. 勺子，匙",
+      "level": "CET4"
+    },
+    {
+      "word": "sport",
+      "translation": "n. 运动，体育",
+      "level": "CET4"
+    },
+    {
+      "word": "sportsman",
+      "translation": "n. 运动员，运动家",
+      "level": "CET4"
+    },
+    {
+      "word": "spot",
+      "translation": "n. 地点，斑点",
+      "level": "CET4"
+    },
+    {
+      "word": "spray",
+      "translation": "n. 喷雾，v. 喷洒",
+      "level": "CET4"
+    },
+    {
+      "word": "spread",
+      "translation": "v. 展开，传播",
+      "level": "CET4"
+    },
+    {
+      "word": "spring",
+      "translation": "n. 春天，弹簧",
+      "level": "CET4"
+    },
+    {
+      "word": "sprinkle",
+      "translation": "v. 洒，撒",
+      "level": "CET4"
+    },
+    {
+      "word": "spur",
+      "translation": "n. 刺激，v. 激励",
+      "level": "CET4"
+    },
+    {
+      "word": "spy",
+      "translation": "n. 间谍，v. 侦察",
+      "level": "CET4"
+    },
+    {
+      "word": "square",
+      "translation": "n. 正方形，广场",
+      "level": "CET4"
+    },
+    {
+      "word": "squeeze",
+      "translation": "v. 挤压，榨取",
+      "level": "CET4"
+    },
+    {
+      "word": "stability",
+      "translation": "n. 稳定性，稳固",
+      "level": "CET4"
+    },
+    {
+      "word": "stable",
+      "translation": "adj. 稳定的，稳固的",
+      "level": "CET4"
+    },
+    {
+      "word": "stack",
+      "translation": "n. 堆，垛",
+      "level": "CET4"
+    },
+    {
+      "word": "stadium",
+      "translation": "n. 体育场，运动场",
+      "level": "CET4"
+    },
+    {
+      "word": "staff",
+      "translation": "n. 员工，全体职员",
+      "level": "CET4"
+    },
+    {
+      "word": "stage",
+      "translation": "n. 舞台，阶段",
+      "level": "CET4"
+    },
+    {
+      "word": "stain",
+      "translation": "n. 污点，v. 玷污",
+      "level": "CET4"
+    },
+    {
+      "word": "stair",
+      "translation": "n. 楼梯，阶梯",
+      "level": "CET4"
+    },
+    {
+      "word": "stake",
+      "translation": "n. 赌注，利害关系",
+      "level": "CET4"
+    },
+    {
+      "word": "stale",
+      "translation": "adj. 不新鲜的，陈旧的",
+      "level": "CET4"
+    },
+    {
+      "word": "stamp",
+      "translation": "n. 邮票，印章",
+      "level": "CET4"
+    },
+    {
+      "word": "stand",
+      "translation": "v. 站立，忍受",
+      "level": "CET4"
+    },
+    {
+      "word": "standard",
+      "translation": "n. 标准，规格",
+      "level": "CET4"
+    },
+    {
+      "word": "standpoint",
+      "translation": "n. 立场，观点",
+      "level": "CET4"
+    },
+    {
+      "word": "star",
+      "translation": "n. 星星，明星",
+      "level": "CET4"
+    },
+    {
+      "word": "stare",
+      "translation": "v. 凝视，盯着看",
+      "level": "CET4"
+    },
+    {
+      "word": "start",
+      "translation": "v. 开始，启动",
+      "level": "CET4"
+    },
+    {
+      "word": "startle",
+      "translation": "v. 使吃惊，使惊吓",
+      "level": "CET4"
+    },
+    {
+      "word": "starve",
+      "translation": "v. 挨饿，饿死",
+      "level": "CET4"
+    },
+    {
+      "word": "state",
+      "translation": "n. 状态，国家",
+      "level": "CET4"
+    },
+    {
+      "word": "statement",
+      "translation": "n. 声明，陈述",
+      "level": "CET4"
+    },
+    {
+      "word": "static",
+      "translation": "adj. 静态的，静止的",
+      "level": "CET4"
+    },
+    {
+      "word": "station",
+      "translation": "n. 车站，站台",
+      "level": "CET4"
+    },
+    {
+      "word": "statistical",
+      "translation": "adj. 统计的，统计学的",
+      "level": "CET4"
+    },
+    {
+      "word": "statistics",
+      "translation": "n. 统计，统计学",
+      "level": "CET4"
+    },
+    {
+      "word": "statue",
+      "translation": "n. 雕像，塑像",
+      "level": "CET4"
+    },
+    {
+      "word": "status",
+      "translation": "n. 地位，状态",
+      "level": "CET4"
+    },
+    {
+      "word": "stay",
+      "translation": "v. 停留，保持",
+      "level": "CET4"
+    },
+    {
+      "word": "steady",
+      "translation": "adj. 稳定的，稳固的",
+      "level": "CET4"
+    },
+    {
+      "word": "steak",
+      "translation": "n. 牛排，肉排",
+      "level": "CET4"
+    },
+    {
+      "word": "steal",
+      "translation": "v. 偷窃，窃取",
+      "level": "CET4"
+    },
+    {
+      "word": "steam",
+      "translation": "n. 蒸汽，v. 蒸",
+      "level": "CET4"
+    },
+    {
+      "word": "steamer",
+      "translation": "n. 轮船，汽船",
+      "level": "CET4"
+    },
+    {
+      "word": "station",
+      "translation": "n. 车站，站台",
+      "level": "CET4"
+    },
+    {
+      "word": "steel",
+      "translation": "n. 钢，钢铁",
+      "level": "CET4"
+    },
+    {
+      "word": "steep",
+      "translation": "adj. 陡峭的，急剧的",
+      "level": "CET4"
+    },
+    {
+      "word": "steer",
+      "translation": "v. 驾驶，引导",
+      "level": "CET4"
+    },
+    {
+      "word": "stem",
+      "translation": "n. 茎，干",
+      "level": "CET4"
+    },
+    {
+      "word": "step",
+      "translation": "n. 步骤，台阶",
+      "level": "CET4"
+    },
+    {
+      "word": "stereo",
+      "translation": "n. 立体声，立体声系统",
+      "level": "CET4"
+    },
+    {
+      "word": "stereotype",
+      "translation": "n. 刻板印象，陈规",
+      "level": "CET4"
+    },
+    {
+      "word": "stick",
+      "translation": "n. 棍，棒",
+      "level": "CET4"
+    },
+    {
+      "word": "sticky",
+      "translation": "adj. 粘的，粘性的",
+      "level": "CET4"
+    },
+    {
+      "word": "stiff",
+      "translation": "adj. 僵硬的，严厉的",
+      "level": "CET4"
+    },
+    {
+      "word": "still",
+      "translation": "adv. 仍然，依旧",
+      "level": "CET4"
+    },
+    {
+      "word": "stimulate",
+      "translation": "v. 刺激，激励",
+      "level": "CET4"
+    },
+    {
+      "word": "sting",
+      "translation": "v. 刺，叮，n. 刺痛",
+      "level": "CET4"
+    },
+    {
+      "word": "stir",
+      "translation": "v. 搅拌，激起",
+      "level": "CET4"
+    },
+    {
+      "word": "stock",
+      "translation": "n. 库存，股票",
+      "level": "CET4"
+    },
+    {
+      "word": "stomach",
+      "translation": "n. 胃，腹部",
+      "level": "CET4"
+    },
+    {
+      "word": "stone",
+      "translation": "n. 石头，宝石",
+      "level": "CET4"
+    },
+    {
+      "word": "stool",
+      "translation": "n. 凳子，粪便",
+      "level": "CET4"
+    },
+    {
+      "word": "stop",
+      "translation": "v. 停止，n. 车站",
+      "level": "CET4"
+    },
+    {
+      "word": "storage",
+      "translation": "n. 储存，存储",
+      "level": "CET4"
+    },
+    {
+      "word": "store",
+      "translation": "n. 商店，v. 储存",
+      "level": "CET4"
+    },
+    {
+      "word": "storm",
+      "translation": "n. 风暴，暴风雨",
+      "level": "CET4"
+    },
+    {
+      "word": "story",
+      "translation": "n. 故事，小说，楼层",
+      "level": "CET4"
+    },
+    {
+      "word": "stove",
+      "translation": "n. 炉子，火炉",
+      "level": "CET4"
+    },
+    {
+      "word": "straight",
+      "translation": "adj. 直的，adv. 直接地",
+      "level": "CET4"
+    },
+    {
+      "word": "straightforward",
+      "translation": "adj. 直截了当的，坦率的",
+      "level": "CET4"
+    },
+    {
+      "word": "strain",
+      "translation": "n. 压力，拉紧，v. 拉紧",
+      "level": "CET4"
+    },
+    {
+      "word": "strange",
+      "translation": "adj. 奇怪的，陌生的",
+      "level": "CET4"
+    },
+    {
+      "word": "stranger",
+      "translation": "n. 陌生人，外地人",
+      "level": "CET4"
+    },
+    {
+      "word": "strap",
+      "translation": "n. 带子，皮带",
+      "level": "CET4"
+    },
+    {
+      "word": "strategy",
+      "translation": "n. 策略，战略",
+      "level": "CET4"
+    },
+    {
+      "word": "straw",
+      "translation": "n. 稻草，吸管",
+      "level": "CET4"
+    },
+    {
+      "word": "strawberry",
+      "translation": "n. 草莓",
+      "level": "CET4"
+    },
+    {
+      "word": "stream",
+      "translation": "n. 小溪，流",
+      "level": "CET4"
+    },
+    {
+      "word": "street",
+      "translation": "n. 街道",
+      "level": "CET4"
+    },
+    {
+      "word": "strength",
+      "translation": "n. 力量，强度",
+      "level": "CET4"
+    },
+    {
+      "word": "strengthen",
+      "translation": "v. 加强，巩固",
+      "level": "CET4"
+    },
+    {
+      "word": "stress",
+      "translation": "n. 压力，强调，v. 强调",
+      "level": "CET4"
+    },
+    {
+      "word": "stretch",
+      "translation": "v. 伸展，拉长",
+      "level": "CET4"
+    },
+    {
+      "word": "strict",
+      "translation": "adj. 严格的，严厉的",
+      "level": "CET4"
+    },
+    {
+      "word": "strike",
+      "translation": "v. 打，击，罢工",
+      "level": "CET4"
+    },
+    {
+      "word": "string",
+      "translation": "n. 细绳，字符串",
+      "level": "CET4"
+    },
+    {
+      "word": "strip",
+      "translation": "v. 剥去，脱去",
+      "level": "CET4"
+    },
+    {
+      "word": "stripe",
+      "translation": "n. 条纹，线条",
+      "level": "CET4"
+    },
+    {
+      "word": "strive",
+      "translation": "v. 努力，奋斗",
+      "level": "CET4"
+    },
+    {
+      "word": "stroke",
+      "translation": "n. 中风，击打，笔画",
+      "level": "CET4"
+    },
+    {
+      "word": "strong",
+      "translation": "adj. 强壮的，坚强的",
+      "level": "CET4"
+    },
+    {
+      "word": "structure",
+      "translation": "n. 结构，构造",
+      "level": "CET4"
+    },
+    {
+      "word": "struggle",
+      "translation": "v. 奋斗，挣扎",
+      "level": "CET4"
+    },
+    {
+      "word": "student",
+      "translation": "n. 学生，研究者",
+      "level": "CET4"
+    },
+    {
+      "word": "studio",
+      "translation": "n. 工作室，演播室",
+      "level": "CET4"
+    },
+    {
+      "word": "study",
+      "translation": "v. 学习，研究",
+      "level": "CET4"
+    },
+    {
+      "word": "stuff",
+      "translation": "n. 东西，材料",
+      "level": "CET4"
+    },
+    {
+      "word": "stumble",
+      "translation": "v. 绊倒，蹒跚",
+      "level": "CET4"
+    },
+    {
+      "word": "stupid",
+      "translation": "adj. 愚蠢的，笨的",
+      "level": "CET4"
+    },
+    {
+      "word": "style",
+      "translation": "n. 风格，样式",
+      "level": "CET4"
+    },
+    {
+      "word": "subject",
+      "translation": "n. 主题，科目，主语",
+      "level": "CET4"
+    },
+    {
+      "word": "submit",
+      "translation": "v. 提交，屈服",
+      "level": "CET4"
+    },
+    {
+      "word": "subsequent",
+      "translation": "adj. 随后的，后来的",
+      "level": "CET4"
+    },
+    {
+      "word": "substance",
+      "translation": "n. 物质，实质",
+      "level": "CET4"
+    },
+    {
+      "word": "substantial",
+      "translation": "adj. 大量的，实质的",
+      "level": "CET4"
+    },
+    {
+      "word": "substitute",
+      "translation": "n. 替代品，v. 替代",
+      "level": "CET4"
+    },
+    {
+      "word": "subtract",
+      "translation": "v. 减去，扣除",
+      "level": "CET4"
+    },
+    {
+      "word": "suburb",
+      "translation": "n. 郊区，市郊",
+      "level": "CET4"
+    },
+    {
+      "word": "subway",
+      "translation": "n. 地铁，地下通道",
+      "level": "CET4"
+    },
+    {
+      "word": "succeed",
+      "translation": "v. 成功，继承",
+      "level": "CET4"
+    },
+    {
+      "word": "success",
+      "translation": "n. 成功，成就",
+      "level": "CET4"
+    },
+    {
+      "word": "successful",
+      "translation": "adj. 成功的，有成就的",
+      "level": "CET4"
+    },
+    {
+      "word": "successive",
+      "translation": "adj. 连续的，接连的",
+      "level": "CET4"
+    },
+    {
+      "word": "such",
+      "translation": "adj. 这样的，如此的",
+      "level": "CET4"
+    },
+    {
+      "word": "suck",
+      "translation": "v. 吸，吮吸",
+      "level": "CET4"
+    },
+    {
+      "word": "sudden",
+      "translation": "adj. 突然的，意外的",
+      "level": "CET4"
+    },
+    {
+      "word": "suffer",
+      "translation": "v. 遭受，忍受",
+      "level": "CET4"
+    },
+    {
+      "word": "sufficient",
+      "translation": "adj. 足够的，充分的",
+      "level": "CET4"
+    },
+    {
+      "word": "sugar",
+      "translation": "n. 糖，食糖",
+      "level": "CET4"
+    },
+    {
+      "word": "suggest",
+      "translation": "v. 建议，暗示",
+      "level": "CET4"
+    },
+    {
+      "word": "suggestion",
+      "translation": "n. 建议，意见",
+      "level": "CET4"
+    },
+    {
+      "word": "suit",
+      "translation": "n. 套装，诉讼，v. 适合",
+      "level": "CET4"
+    },
+    {
+      "word": "suitable",
+      "translation": "adj. 合适的，适宜的",
+      "level": "CET4"
+    },
+    {
+      "word": "sum",
+      "translation": "n. 总数，金额，v. 合计",
+      "level": "CET4"
+    },
+    {
+      "word": "summary",
+      "translation": "n. 摘要，概要",
+      "level": "CET4"
+    },
+    {
+      "word": "summit",
+      "translation": "n. 顶点，峰会",
+      "level": "CET4"
+    },
+    {
+      "word": "sun",
+      "translation": "n. 太阳，阳光",
+      "level": "CET4"
+    },
+    {
+      "word": "sunlight",
+      "translation": "n. 阳光，日光",
+      "level": "CET4"
+    },
+    {
+      "word": "sunny",
+      "translation": "adj. 晴朗的，阳光充足的",
+      "level": "CET4"
+    },
+    {
+      "word": "sunrise",
+      "translation": "n. 日出，黎明",
+      "level": "CET4"
+    },
+    {
+      "word": "sunset",
+      "translation": "n. 日落，傍晚",
+      "level": "CET4"
+    },
+    {
+      "word": "super",
+      "translation": "adj. 极好的，超级的",
+      "level": "CET4"
+    },
+    {
+      "word": "superior",
+      "translation": "adj. 更好的，上级的",
+      "level": "CET4"
+    },
+    {
+      "word": "supermarket",
+      "translation": "n. 超级市场",
+      "level": "CET4"
+    },
+    {
+      "word": "supper",
+      "translation": "n. 晚餐，晚饭",
+      "level": "CET4"
+    },
+    {
+      "word": "supply",
+      "translation": "v. 供应，n. 供给",
+      "level": "CET4"
+    },
+    {
+      "word": "support",
+      "translation": "v. 支持，n. 支持",
+      "level": "CET4"
+    },
+    {
+      "word": "suppose",
+      "translation": "v. 假设，认为",
+      "level": "CET4"
+    },
+    {
+      "word": "suppress",
+      "translation": "v. 镇压，抑制",
+      "level": "CET4"
+    },
+    {
+      "word": "sure",
+      "translation": "adj. 确信的，肯定的",
+      "level": "CET4"
+    },
+    {
+      "word": "surface",
+      "translation": "n. 表面，外表",
+      "level": "CET4"
+    },
+    {
+      "word": "surgeon",
+      "translation": "n. 外科医生",
+      "level": "CET4"
+    },
+    {
+      "word": "surgery",
+      "translation": "n. 外科手术，手术室",
+      "level": "CET4"
+    },
+    {
+      "word": "surplus",
+      "translation": "n. 剩余，过剩",
+      "level": "CET4"
+    },
+    {
+      "word": "surprise",
+      "translation": "n. 惊奇，v. 使惊奇",
+      "level": "CET4"
+    },
+    {
+      "word": "surrender",
+      "translation": "v. 投降，屈服",
+      "level": "CET4"
+    },
+    {
+      "word": "surround",
+      "translation": "v. 包围，环绕",
+      "level": "CET4"
+    },
+    {
+      "word": "survey",
+      "translation": "n. 调查，测量，v. 调查",
+      "level": "CET4"
+    },
+    {
+      "word": "survive",
+      "translation": "v. 幸存，生存",
+      "level": "CET4"
+    },
+    {
+      "word": "suspect",
+      "translation": "v. 怀疑，n. 嫌疑犯",
+      "level": "CET4"
+    },
+    {
+      "word": "suspend",
+      "translation": "v. 暂停，悬挂",
+      "level": "CET4"
+    },
+    {
+      "word": "suspicion",
+      "translation": "n. 怀疑，嫌疑",
+      "level": "CET4"
+    },
+    {
+      "word": "suspicious",
+      "translation": "adj. 可疑的，怀疑的",
+      "level": "CET4"
+    },
+    {
+      "word": "sustain",
+      "translation": "v. 支撑，维持",
+      "level": "CET4"
+    },
+    {
+      "word": "swallow",
+      "translation": "v. 吞咽，n. 燕子",
+      "level": "CET4"
+    },
+    {
+      "word": "swamp",
+      "translation": "n. 沼泽，v. 淹没",
+      "level": "CET4"
+    },
+    {
+      "word": "swan",
+      "translation": "n. 天鹅",
+      "level": "CET4"
+    },
+    {
+      "word": "swap",
+      "translation": "v. 交换，n. 交换",
+      "level": "CET4"
+    },
+    {
+      "word": "swear",
+      "translation": "v. 发誓，咒骂",
+      "level": "CET4"
+    },
+    {
+      "word": "sweat",
+      "translation": "n. 汗水，v. 出汗",
+      "level": "CET4"
+    },
+    {
+      "word": "sweep",
+      "translation": "v. 打扫，扫除",
+      "level": "CET4"
+    },
+    {
+      "word": "sweet",
+      "translation": "adj. 甜的，n. 糖果",
+      "level": "CET4"
+    },
+    {
+      "word": "swell",
+      "translation": "v. 膨胀，肿胀",
+      "level": "CET4"
+    },
+    {
+      "word": "swift",
+      "translation": "adj. 迅速的，敏捷的",
+      "level": "CET4"
+    },
+    {
+      "word": "swim",
+      "translation": "v. 游泳",
+      "level": "CET4"
+    },
+    {
+      "word": "swing",
+      "translation": "v. 摇摆，n. 秋千",
+      "level": "CET4"
+    },
+    {
+      "word": "switch",
+      "translation": "n. 开关，v. 转换",
+      "level": "CET4"
+    },
+    {
+      "word": "sword",
+      "translation": "n. 剑，刀",
+      "level": "CET4"
+    },
+    {
+      "word": "symbol",
+      "translation": "n. 符号，象征",
+      "level": "CET4"
+    },
+    {
+      "word": "sympathy",
+      "translation": "n. 同情，赞同",
+      "level": "CET4"
+    },
+    {
+      "word": "symptom",
+      "translation": "n. 症状，征兆",
+      "level": "CET4"
+    },
+    {
+      "word": "system",
+      "translation": "n. 系统，体制",
+      "level": "CET4"
+    },
+    {
+      "word": "systematic",
+      "translation": "adj. 系统的，有条理的",
+      "level": "CET4"
+    },
+    {
+      "word": "table",
+      "translation": "n. 桌子，表格",
+      "level": "CET4"
+    },
+    {
+      "word": "tablet",
+      "translation": "n. 药片，平板电脑",
+      "level": "CET4"
+    },
+    {
+      "word": "tackle",
+      "translation": "v. 处理，解决",
+      "level": "CET4"
+    },
+    {
+      "word": "tail",
+      "translation": "n. 尾巴，尾部",
+      "level": "CET4"
+    },
+    {
+      "word": "tailor",
+      "translation": "n. 裁缝，v. 缝制",
+      "level": "CET4"
+    },
+    {
+      "word": "take",
+      "translation": "v. 拿，取，带走",
+      "level": "CET4"
+    },
+    {
+      "word": "tale",
+      "translation": "n. 故事，传说",
+      "level": "CET4"
+    },
+    {
+      "word": "talent",
+      "translation": "n. 天赋，才能",
+      "level": "CET4"
+    },
+    {
+      "word": "talk",
+      "translation": "v. 说话，n. 谈话",
+      "level": "CET4"
+    },
+    {
+      "word": "tall",
+      "translation": "adj. 高的",
+      "level": "CET4"
+    },
+    {
+      "word": "tank",
+      "translation": "n. 坦克，水箱",
+      "level": "CET4"
+    },
+    {
+      "word": "tap",
+      "translation": "v. 轻敲，n. 龙头",
+      "level": "CET4"
+    },
+    {
+      "word": "tape",
+      "translation": "n. 磁带，胶带",
+      "level": "CET4"
+    },
+    {
+      "word": "target",
+      "translation": "n. 目标，靶子",
+      "level": "CET4"
+    },
+    {
+      "word": "task",
+      "translation": "n. 任务，工作",
+      "level": "CET4"
+    },
+    {
+      "word": "taste",
+      "translation": "n. 味道，品味，v. 品尝",
+      "level": "CET4"
+    },
+    {
+      "word": "tax",
+      "translation": "n. 税，v. 征税",
+      "level": "CET4"
+    },
+    {
+      "word": "taxi",
+      "translation": "n. 出租车",
+      "level": "CET4"
+    },
+    {
+      "word": "tea",
+      "translation": "n. 茶，茶叶",
+      "level": "CET4"
+    },
+    {
+      "word": "teach",
+      "translation": "v. 教，讲授",
+      "level": "CET4"
+    },
+    {
+      "word": "teacher",
+      "translation": "n. 教师，老师",
+      "level": "CET4"
+    },
+    {
+      "word": "teaching",
+      "translation": "n. 教学，教义",
+      "level": "CET4"
+    },
+    {
+      "word": "team",
+      "translation": "n. 团队，组",
+      "level": "CET4"
+    },
+    {
+      "word": "tear",
+      "translation": "n. 眼泪，v. 撕裂",
+      "level": "CET4"
+    },
+    {
+      "word": "technical",
+      "translation": "adj. 技术的，工艺的",
+      "level": "CET4"
+    },
+    {
+      "word": "technique",
+      "translation": "n. 技巧，技术",
+      "level": "CET4"
+    },
+    {
+      "word": "technology",
+      "translation": "n. 技术，工艺",
+      "level": "CET4"
+    },
+    {
+      "word": "teenager",
+      "translation": "n. 青少年",
+      "level": "CET4"
+    },
+    {
+      "word": "telephone",
+      "translation": "n. 电话，v. 打电话",
+      "level": "CET4"
+    },
+    {
+      "word": "telescope",
+      "translation": "n. 望远镜",
+      "level": "CET4"
+    },
+    {
+      "word": "television",
+      "translation": "n. 电视，电视机",
+      "level": "CET4"
+    },
+    {
+      "word": "tell",
+      "translation": "v. 告诉，讲述",
+      "level": "CET4"
+    },
+    {
+      "word": "temper",
+      "translation": "n. 脾气，情绪",
+      "level": "CET4"
+    },
+    {
+      "word": "temperature",
+      "translation": "n. 温度，体温",
+      "level": "CET4"
+    },
+    {
+      "word": "temple",
+      "translation": "n. 寺庙，庙宇",
+      "level": "CET4"
+    },
+    {
+      "word": "temporary",
+      "translation": "adj. 临时的，暂时的",
+      "level": "CET4"
+    },
+    {
+      "word": "tempt",
+      "translation": "v. 诱惑，引诱",
+      "level": "CET4"
+    },
+    {
+      "word": "tend",
+      "translation": "v. 倾向，易于",
+      "level": "CET4"
+    },
+    {
+      "word": "tendency",
+      "translation": "n. 倾向，趋势",
+      "level": "CET4"
+    },
+    {
+      "word": "tender",
+      "translation": "adj. 温柔的，嫩的",
+      "level": "CET4"
+    },
+    {
+      "word": "tennis",
+      "translation": "n. 网球",
+      "level": "CET4"
+    },
+    {
+      "word": "tense",
+      "translation": "adj. 紧张的，n. 时态",
+      "level": "CET4"
+    },
+    {
+      "word": "tension",
+      "translation": "n. 紧张，拉力",
+      "level": "CET4"
+    },
+    {
+      "word": "tent",
+      "translation": "n. 帐篷",
+      "level": "CET4"
+    },
+    {
+      "word": "term",
+      "translation": "n. 术语，学期，期限",
+      "level": "CET4"
+    },
+    {
+      "word": "terminal",
+      "translation": "n. 终点站，终端",
+      "level": "CET4"
+    },
+    {
+      "word": "terminate",
+      "translation": "v. 终止，结束",
+      "level": "CET4"
+    },
+    {
+      "word": "terrible",
+      "translation": "adj. 可怕的，糟糕的",
+      "level": "CET4"
+    },
+    {
+      "word": "terrific",
+      "translation": "adj. 极好的，非常的",
+      "level": "CET4"
+    },
+    {
+      "word": "territory",
+      "translation": "n. 领土，领域",
+      "level": "CET4"
+    },
+    {
+      "word": "terror",
+      "translation": "n. 恐怖，惊骇",
+      "level": "CET4"
+    },
+    {
+      "word": "test",
+      "translation": "n. 测试，v. 测试",
+      "level": "CET4"
+    },
+    {
+      "word": "text",
+      "translation": "n. 文本，课文",
+      "level": "CET4"
+    },
+    {
+      "word": "textbook",
+      "translation": "n. 教科书，课本",
+      "level": "CET4"
+    },
+    {
+      "word": "textile",
+      "translation": "n. 纺织品，adj. 纺织的",
+      "level": "CET4"
+    },
+    {
+      "word": "than",
+      "translation": "conj. 比，prep. 比",
+      "level": "CET4"
+    },
+    {
+      "word": "thank",
+      "translation": "v. 感谢，谢谢",
+      "level": "CET4"
+    },
+    {
+      "word": "that",
+      "translation": "pron. 那个，conj. 引导从句",
+      "level": "CET4"
+    },
+    {
+      "word": "the",
+      "translation": "art. 这，那",
+      "level": "CET4"
+    },
+    {
+      "word": "theater",
+      "translation": "n. 剧院，剧场",
+      "level": "CET4"
+    },
+    {
+      "word": "theft",
+      "translation": "n. 偷窃，盗窃",
+      "level": "CET4"
+    },
+    {
+      "word": "their",
+      "translation": "pron. 他们的",
+      "level": "CET4"
+    },
+    {
+      "word": "theirs",
+      "translation": "pron. 他们的",
+      "level": "CET4"
+    },
+    {
+      "word": "them",
+      "translation": "pron. 他们",
+      "level": "CET4"
+    },
+    {
+      "word": "theme",
+      "translation": "n. 主题，题目",
+      "level": "CET4"
+    },
+    {
+      "word": "themselves",
+      "translation": "pron. 他们自己",
+      "level": "CET4"
+    },
+    {
+      "word": "then",
+      "translation": "adv. 然后，那时",
+      "level": "CET4"
+    },
+    {
+      "word": "theoretical",
+      "translation": "adj. 理论的，理论上的",
+      "level": "CET4"
+    },
+    {
+      "word": "theory",
+      "translation": "n. 理论，学说",
+      "level": "CET4"
+    },
+    {
+      "word": "therapy",
+      "translation": "n. 治疗，疗法",
+      "level": "CET4"
+    },
+    {
+      "word": "there",
+      "translation": "adv. 在那里，那里",
+      "level": "CET4"
+    },
+    {
+      "word": "thereby",
+      "translation": "adv. 因此，从而",
+      "level": "CET4"
+    },
+    {
+      "word": "therefore",
+      "translation": "adv. 因此，所以",
+      "level": "CET4"
+    },
+    {
+      "word": "thermometer",
+      "translation": "n. 温度计",
+      "level": "CET4"
+    },
+    {
+      "word": "these",
+      "translation": "pron. 这些",
+      "level": "CET4"
+    },
+    {
+      "word": "they",
+      "translation": "pron. 他们",
+      "level": "CET4"
+    },
+    {
+      "word": "thick",
+      "translation": "adj. 厚的，浓的",
+      "level": "CET4"
+    },
+    {
+      "word": "thief",
+      "translation": "n. 小偷，窃贼",
+      "level": "CET4"
+    },
+    {
+      "word": "thin",
+      "translation": "adj. 薄的，瘦的",
+      "level": "CET4"
+    },
+    {
+      "word": "thing",
+      "translation": "n. 东西，事情",
+      "level": "CET4"
+    },
+    {
+      "word": "think",
+      "translation": "v. 思考，认为",
+      "level": "CET4"
+    },
+    {
+      "word": "thinking",
+      "translation": "n. 思考，想法",
+      "level": "CET4"
+    },
+    {
+      "word": "third",
+      "translation": "num. 第三",
+      "level": "CET4"
+    },
+    {
+      "word": "thirsty",
+      "translation": "adj. 口渴的，渴望的",
+      "level": "CET4"
+    },
+    {
+      "word": "thirteen",
+      "translation": "num. 十三",
+      "level": "CET4"
+    },
+    {
+      "word": "thirty",
+      "translation": "num. 三十",
+      "level": "CET4"
+    },
+    {
+      "word": "this",
+      "translation": "pron. 这个",
+      "level": "CET4"
+    },
+    {
+      "word": "thorough",
+      "translation": "adj. 彻底的，完全的",
+      "level": "CET4"
+    },
+    {
+      "word": "those",
+      "translation": "pron. 那些",
+      "level": "CET4"
+    },
+    {
+      "word": "though",
+      "translation": "conj. 虽然，尽管",
+      "level": "CET4"
+    },
+    {
+      "word": "thought",
+      "translation": "n. 思想，想法",
+      "level": "CET4"
+    },
+    {
+      "word": "thousand",
+      "translation": "num. 千",
+      "level": "CET4"
+    },
+    {
+      "word": "thread",
+      "translation": "n. 线，线索",
+      "level": "CET4"
+    },
+    {
+      "word": "threat",
+      "translation": "n. 威胁，恐吓",
+      "level": "CET4"
+    },
+    {
+      "word": "threaten",
+      "translation": "v. 威胁，恐吓",
+      "level": "CET4"
+    },
+    {
+      "word": "three",
+      "translation": "num. 三",
+      "level": "CET4"
+    },
+    {
+      "word": "thrill",
+      "translation": "n. 兴奋，激动",
+      "level": "CET4"
+    },
+    {
+      "word": "thrive",
+      "translation": "v. 兴旺，繁荣",
+      "level": "CET4"
+    },
+    {
+      "word": "throat",
+      "translation": "n. 喉咙，嗓子",
+      "level": "CET4"
+    },
+    {
+      "word": "through",
+      "translation": "prep. 通过，穿过",
+      "level": "CET4"
+    },
+    {
+      "word": "throughout",
+      "translation": "prep. 遍及，贯穿",
+      "level": "CET4"
+    },
+    {
+      "word": "throw",
+      "translation": "v. 投，扔",
+      "level": "CET4"
+    },
+    {
+      "word": "thumb",
+      "translation": "n. 拇指",
+      "level": "CET4"
+    },
+    {
+      "word": "thunder",
+      "translation": "n. 雷，雷声",
+      "level": "CET4"
+    },
+    {
+      "word": "Thursday",
+      "translation": "n. 星期四",
+      "level": "CET4"
+    },
+    {
+      "word": "thus",
+      "translation": "adv. 因此，从而",
+      "level": "CET4"
+    },
+    {
+      "word": "ticket",
+      "translation": "n. 票，入场券",
+      "level": "CET4"
+    },
+    {
+      "word": "tide",
+      "translation": "n. 潮汐，潮流",
+      "level": "CET4"
+    },
+    {
+      "word": "tidy",
+      "translation": "adj. 整洁的，v. 整理",
+      "level": "CET4"
+    },
+    {
+      "word": "tie",
+      "translation": "n. 领带，v. 系",
+      "level": "CET4"
+    },
+    {
+      "word": "tiger",
+      "translation": "n. 老虎",
+      "level": "CET4"
+    },
+    {
+      "word": "tight",
+      "translation": "adj. 紧的，牢固的",
+      "level": "CET4"
+    },
+    {
+      "word": "till",
+      "translation": "prep. 直到，conj. 直到",
+      "level": "CET4"
+    },
+    {
+      "word": "timber",
+      "translation": "n. 木材，木料",
+      "level": "CET4"
+    },
+    {
+      "word": "time",
+      "translation": "n. 时间，次数",
+      "level": "CET4"
+    },
+    {
+      "word": "timetable",
+      "translation": "n. 时间表，课程表",
+      "level": "CET4"
+    },
+    {
+      "word": "timid",
+      "translation": "adj. 胆怯的，羞怯的",
+      "level": "CET4"
+    },
+    {
+      "word": "tin",
+      "translation": "n. 锡，罐头",
+      "level": "CET4"
+    },
+    {
+      "word": "tiny",
+      "translation": "adj. 极小的，微小的",
+      "level": "CET4"
+    },
+    {
+      "word": "tip",
+      "translation": "n. 尖端，小费",
+      "level": "CET4"
+    },
+    {
+      "word": "tire",
+      "translation": "v. 疲劳，n. 轮胎",
+      "level": "CET4"
+    },
+    {
+      "word": "tired",
+      "translation": "adj. 疲劳的，厌倦的",
+      "level": "CET4"
+    },
+    {
+      "word": "tissue",
+      "translation": "n. 组织，纸巾",
+      "level": "CET4"
+    },
+    {
+      "word": "title",
+      "translation": "n. 标题，头衔",
+      "level": "CET4"
+    },
+    {
+      "word": "to",
+      "translation": "prep. 到，向",
+      "level": "CET4"
+    },
+    {
+      "word": "toast",
+      "translation": "n. 烤面包，祝酒",
+      "level": "CET4"
+    },
+    {
+      "word": "tobacco",
+      "translation": "n. 烟草，烟叶",
+      "level": "CET4"
+    },
+    {
+      "word": "today",
+      "translation": "n. 今天，adv. 今天",
+      "level": "CET4"
+    },
+    {
+      "word": "toe",
+      "translation": "n. 脚趾，足尖",
+      "level": "CET4"
+    },
+    {
+      "word": "together",
+      "translation": "adv. 一起，共同",
+      "level": "CET4"
+    },
+    {
+      "word": "toilet",
+      "translation": "n. 厕所，盥洗室",
+      "level": "CET4"
+    },
+    {
+      "word": "tolerate",
+      "translation": "v. 容忍，忍受",
+      "level": "CET4"
+    },
+    {
+      "word": "tomato",
+      "translation": "n. 番茄，西红柿",
+      "level": "CET4"
+    },
+    {
+      "word": "tomorrow",
+      "translation": "n. 明天，adv. 明天",
+      "level": "CET4"
+    },
+    {
+      "word": "ton",
+      "translation": "n. 吨",
+      "level": "CET4"
+    },
+    {
+      "word": "tone",
+      "translation": "n. 音调，语气",
+      "level": "CET4"
+    },
+    {
+      "word": "tongue",
+      "translation": "n. 舌头，语言",
+      "level": "CET4"
+    },
+    {
+      "word": "tonight",
+      "translation": "n. 今晚，adv. 今晚",
+      "level": "CET4"
+    },
+    {
+      "word": "too",
+      "translation": "adv. 也，太",
+      "level": "CET4"
+    },
+    {
+      "word": "tool",
+      "translation": "n. 工具，用具",
+      "level": "CET4"
+    },
+    {
+      "word": "tooth",
+      "translation": "n. 牙齿",
+      "level": "CET4"
+    },
+    {
+      "word": "top",
+      "translation": "n. 顶部，adj. 最高的",
+      "level": "CET4"
+    },
+    {
+      "word": "topic",
+      "translation": "n. 话题，主题",
+      "level": "CET4"
+    },
+    {
+      "word": "torch",
+      "translation": "n. 手电筒，火炬",
+      "level": "CET4"
+    },
+    {
+      "word": "torture",
+      "translation": "n. 折磨，v. 折磨",
+      "level": "CET4"
+    },
+    {
+      "word": "toss",
+      "translation": "v. 投掷，抛",
+      "level": "CET4"
+    },
+    {
+      "word": "total",
+      "translation": "adj. 总的，n. 总数",
+      "level": "CET4"
+    },
+    {
+      "word": "touch",
+      "translation": "v. 触摸，接触",
+      "level": "CET4"
+    },
+    {
+      "word": "tough",
+      "translation": "adj. 坚韧的，困难的",
+      "level": "CET4"
+    },
+    {
+      "word": "tour",
+      "translation": "n. 旅行，游览",
+      "level": "CET4"
+    },
+    {
+      "word": "tourist",
+      "translation": "n. 旅游者，观光者",
+      "level": "CET4"
+    },
+    {
+      "word": "toward",
+      "translation": "prep. 向，朝",
+      "level": "CET4"
+    },
+    {
+      "word": "towel",
+      "translation": "n. 毛巾，手巾",
+      "level": "CET4"
+    },
+    {
+      "word": "tower",
+      "translation": "n. 塔，高楼",
+      "level": "CET4"
+    },
+    {
+      "word": "town",
+      "translation": "n. 城镇，市镇",
+      "level": "CET4"
+    },
+    {
+      "word": "toy",
+      "translation": "n. 玩具",
+      "level": "CET4"
+    },
+    {
+      "word": "trace",
+      "translation": "n. 痕迹，v. 追踪",
+      "level": "CET4"
+    },
+    {
+      "word": "track",
+      "translation": "n. 轨道，足迹",
+      "level": "CET4"
+    },
+    {
+      "word": "tractor",
+      "translation": "n. 拖拉机",
+      "level": "CET4"
+    },
+    {
+      "word": "trade",
+      "translation": "n. 贸易，v. 交易",
+      "level": "CET4"
+    },
+    {
+      "word": "tradition",
+      "translation": "n. 传统，惯例",
+      "level": "CET4"
+    },
+    {
+      "word": "traditional",
+      "translation": "adj. 传统的，惯例的",
+      "level": "CET4"
+    },
+    {
+      "word": "traffic",
+      "translation": "n. 交通，运输",
+      "level": "CET4"
+    },
+    {
+      "word": "tragedy",
+      "translation": "n. 悲剧，惨事",
+      "level": "CET4"
+    },
+    {
+      "word": "trail",
+      "translation": "n. 小径，踪迹",
+      "level": "CET4"
+    },
+    {
+      "word": "train",
+      "translation": "n. 火车，v. 训练",
+      "level": "CET4"
+    },
+    {
+      "word": "training",
+      "translation": "n. 训练，培训",
+      "level": "CET4"
+    },
+    {
+      "word": "transfer",
+      "translation": "v. 转移，转让",
+      "level": "CET4"
+    },
+    {
+      "word": "transform",
+      "translation": "v. 改变，转换",
+      "level": "CET4"
+    },
+    {
+      "word": "transformation",
+      "translation": "n. 变化，转变",
+      "level": "CET4"
+    },
+    {
+      "word": "transistor",
+      "translation": "n. 晶体管",
+      "level": "CET4"
+    },
+    {
+      "word": "translate",
+      "translation": "v. 翻译，转化",
+      "level": "CET4"
+    },
+    {
+      "word": "translation",
+      "translation": "n. 翻译，译文",
+      "level": "CET4"
+    },
+    {
+      "word": "transmission",
+      "translation": "n. 传播，传送",
+      "level": "CET4"
+    },
+    {
+      "word": "transmit",
+      "translation": "v. 传播，传送",
+      "level": "CET4"
+    },
+    {
+      "word": "transparent",
+      "translation": "adj. 透明的，明显的",
+      "level": "CET4"
+    },
+    {
+      "word": "transport",
+      "translation": "v. 运输，n. 运输",
+      "level": "CET4"
+    },
+    {
+      "word": "transportation",
+      "translation": "n. 运输，运输工具",
+      "level": "CET4"
+    },
+    {
+      "word": "trap",
+      "translation": "n. 陷阱，v. 诱捕",
+      "level": "CET4"
+    },
+    {
+      "word": "trash",
+      "translation": "n. 垃圾，废物",
+      "level": "CET4"
+    },
+    {
+      "word": "travel",
+      "translation": "v. 旅行，n. 旅行",
+      "level": "CET4"
+    },
+    {
+      "word": "tray",
+      "translation": "n. 托盘，碟",
+      "level": "CET4"
+    },
+    {
+      "word": "treasure",
+      "translation": "n. 财宝，珍宝",
+      "level": "CET4"
+    },
+    {
+      "word": "treat",
+      "translation": "v. 对待，治疗",
+      "level": "CET4"
+    },
+    {
+      "word": "treatment",
+      "translation": "n. 治疗，处理",
+      "level": "CET4"
+    },
+    {
+      "word": "treaty",
+      "translation": "n. 条约，协议",
+      "level": "CET4"
+    },
+    {
+      "word": "tree",
+      "translation": "n. 树，树木",
+      "level": "CET4"
+    },
+    {
+      "word": "tremble",
+      "translation": "v. 颤抖，发抖",
+      "level": "CET4"
+    },
+    {
+      "word": "tremendous",
+      "translation": "adj. 巨大的，惊人的",
+      "level": "CET4"
+    },
+    {
+      "word": "trend",
+      "translation": "n. 趋势，倾向",
+      "level": "CET4"
+    },
+    {
+      "word": "trial",
+      "translation": "n. 审判，试验",
+      "level": "CET4"
+    },
+    {
+      "word": "triangle",
+      "translation": "n. 三角形",
+      "level": "CET4"
+    },
+    {
+      "word": "tribe",
+      "translation": "n. 部落，部族",
+      "level": "CET4"
+    },
+    {
+      "word": "trick",
+      "translation": "n. 诡计，v. 欺骗",
+      "level": "CET4"
+    },
+    {
+      "word": "trifle",
+      "translation": "n. 琐事，小事",
+      "level": "CET4"
+    },
+    {
+      "word": "trim",
+      "translation": "v. 修剪，整理",
+      "level": "CET4"
+    },
+    {
+      "word": "trip",
+      "translation": "n. 旅行，v. 绊倒",
+      "level": "CET4"
+    },
+    {
+      "word": "triumph",
+      "translation": "n. 胜利，成功",
+      "level": "CET4"
+    },
+    {
+      "word": "troop",
+      "translation": "n. 军队，部队",
+      "level": "CET4"
+    },
+    {
+      "word": "tropical",
+      "translation": "adj. 热带的，炎热的",
+      "level": "CET4"
+    },
+    {
+      "word": "trouble",
+      "translation": "n. 麻烦，v. 使烦恼",
+      "level": "CET4"
+    },
+    {
+      "word": "troublesome",
+      "translation": "adj. 麻烦的，讨厌的",
+      "level": "CET4"
+    },
+    {
+      "word": "trousers",
+      "translation": "n. 裤子，长裤",
+      "level": "CET4"
+    },
+    {
+      "word": "truck",
+      "translation": "n. 卡车，货车",
+      "level": "CET4"
+    },
+    {
+      "word": "true",
+      "translation": "adj. 真实的，正确的",
+      "level": "CET4"
+    },
+    {
+      "word": "truly",
+      "translation": "adv. 真实地，确实地",
+      "level": "CET4"
+    },
+    {
+      "word": "trumpet",
+      "translation": "n. 喇叭，小号",
+      "level": "CET4"
+    },
+    {
+      "word": "trunk",
+      "translation": "n. 树干，行李箱",
+      "level": "CET4"
+    },
+    {
+      "word": "trust",
+      "translation": "n. 信任，v. 信任",
+      "level": "CET4"
+    },
+    {
+      "word": "truth",
+      "translation": "n. 真理，真相",
+      "level": "CET4"
+    },
+    {
+      "word": "try",
+      "translation": "v. 尝试，努力",
+      "level": "CET4"
+    },
+    {
+      "word": "tube",
+      "translation": "n. 管子，地铁",
+      "level": "CET4"
+    },
+    {
+      "word": "tune",
+      "translation": "n. 曲调，v. 调整",
+      "level": "CET4"
+    },
+    {
+      "word": "tunnel",
+      "translation": "n. 隧道，地道",
+      "level": "CET4"
+    },
+    {
+      "word": "turbine",
+      "translation": "n. 涡轮机",
+      "level": "CET4"
+    },
+    {
+      "word": "turbulent",
+      "translation": "adj. 动荡的，汹涌的",
+      "level": "CET4"
+    },
+    {
+      "word": "turn",
+      "translation": "v. 转动，n. 转弯",
+      "level": "CET4"
+    },
+    {
+      "word": "turning",
+      "translation": "n. 拐弯处，转变",
+      "level": "CET4"
+    },
+    {
+      "word": "tutor",
+      "translation": "n. 家庭教师，导师",
+      "level": "CET4"
+    },
+    {
+      "word": "twice",
+      "translation": "adv. 两次，双倍",
+      "level": "CET4"
+    },
+    {
+      "word": "twin",
+      "translation": "n. 双胞胎之一，adj. 双胞胎的",
+      "level": "CET4"
+    },
+    {
+      "word": "twist",
+      "translation": "v. 扭曲，拧",
+      "level": "CET4"
+    },
+    {
+      "word": "type",
+      "translation": "n. 类型，v. 打字",
+      "level": "CET4"
+    },
+    {
+      "word": "typical",
+      "translation": "adj. 典型的，代表性的",
+      "level": "CET4"
+    },
+    {
+      "word": "tyre",
+      "translation": "n. 轮胎",
+      "level": "CET4"
+    },
+    {
+      "word": "ugly",
+      "translation": "adj. 丑陋的，难看的",
+      "level": "CET4"
+    },
+    {
+      "word": "ultimate",
+      "translation": "adj. 最终的，极限的",
+      "level": "CET4"
+    },
+    {
+      "word": "umbrella",
+      "translation": "n. 雨伞",
+      "level": "CET4"
+    },
+    {
+      "word": "unable",
+      "translation": "adj. 不能的，不会的",
+      "level": "CET4"
+    },
+    {
+      "word": "unaware",
+      "translation": "adj. 未意识到的",
+      "level": "CET4"
+    },
+    {
+      "word": "uncertain",
+      "translation": "adj. 不确定的，未定的",
+      "level": "CET4"
+    },
+    {
+      "word": "uncle",
+      "translation": "n. 叔叔，舅舅",
+      "level": "CET4"
+    },
+    {
+      "word": "uncomfortable",
+      "translation": "adj. 不舒服的，不自在的",
+      "level": "CET4"
+    },
+    {
+      "word": "unconscious",
+      "translation": "adj. 无意识的，失去知觉的",
+      "level": "CET4"
+    },
+    {
+      "word": "under",
+      "translation": "prep. 在……下面，低于",
+      "level": "CET4"
+    },
+    {
+      "word": "undergo",
+      "translation": "v. 经历，遭受",
+      "level": "CET4"
+    },
+    {
+      "word": "understand",
+      "translation": "v. 理解，明白",
+      "level": "CET4"
+    },
+    {
+      "word": "understanding",
+      "translation": "n. 理解，谅解",
+      "level": "CET4"
+    },
+    {
+      "word": "undertake",
+      "translation": "v. 承担，着手做",
+      "level": "CET4"
+    },
+    {
+      "word": "unexpected",
+      "translation": "adj. 意外的，出乎意料的",
+      "level": "CET4"
+    },
+    {
+      "word": "unfair",
+      "translation": "adj. 不公平的，不公正的",
+      "level": "CET4"
+    },
+    {
+      "word": "unfamiliar",
+      "translation": "adj. 不熟悉的，陌生的",
+      "level": "CET4"
+    },
+    {
+      "word": "unfortunate",
+      "translation": "adj. 不幸的，倒霉的",
+      "level": "CET4"
+    },
+    {
+      "word": "unfortunately",
+      "translation": "adv. 不幸地，遗憾地",
+      "level": "CET4"
+    },
+    {
+      "word": "uniform",
+      "translation": "n. 制服，adj. 一致的",
+      "level": "CET4"
+    },
+    {
+      "word": "union",
+      "translation": "n. 联合，联盟",
+      "level": "CET4"
+    },
+    {
+      "word": "unique",
+      "translation": "adj. 独特的，唯一的",
+      "level": "CET4"
+    },
+    {
+      "word": "unit",
+      "translation": "n. 单位，单元",
+      "level": "CET4"
+    },
+    {
+      "word": "unite",
+      "translation": "v. 联合，团结",
+      "level": "CET4"
+    },
+    {
+      "word": "universal",
+      "translation": "adj. 普遍的，通用的",
+      "level": "CET4"
+    },
+    {
+      "word": "universe",
+      "translation": "n. 宇宙，万物",
+      "level": "CET4"
+    },
+    {
+      "word": "university",
+      "translation": "n. 大学，高等学府",
+      "level": "CET4"
+    },
+    {
+      "word": "unknown",
+      "translation": "adj. 未知的，不出名的",
+      "level": "CET4"
+    },
+    {
+      "word": "unless",
+      "translation": "conj. 除非，如果不",
+      "level": "CET4"
+    },
+    {
+      "word": "unlike",
+      "translation": "prep. 不像，和……不同",
+      "level": "CET4"
+    },
+    {
+      "word": "unlikely",
+      "translation": "adj. 不太可能的",
+      "level": "CET4"
+    },
+    {
+      "word": "until",
+      "translation": "prep. 直到……为止",
+      "level": "CET4"
+    },
+    {
+      "word": "unusual",
+      "translation": "adj. 不寻常的，罕见的",
+      "level": "CET4"
+    },
+    {
+      "word": "up",
+      "translation": "adv. 向上，起来",
+      "level": "CET4"
+    },
+    {
+      "word": "upon",
+      "translation": "prep. 在……之上",
+      "level": "CET4"
+    },
+    {
+      "word": "upper",
+      "translation": "adj. 上面的，上部的",
+      "level": "CET4"
+    },
+    {
+      "word": "upset",
+      "translation": "v. 使心烦，打乱",
+      "level": "CET4"
+    },
+    {
+      "word": "upstairs",
+      "translation": "adv. 在楼上，往楼上",
+      "level": "CET4"
+    },
+    {
+      "word": "urban",
+      "translation": "adj. 城市的，都市的",
+      "level": "CET4"
+    },
+    {
+      "word": "urge",
+      "translation": "v. 敦促，力劝",
+      "level": "CET4"
+    },
+    {
+      "word": "urgent",
+      "translation": "adj. 紧急的，迫切的",
+      "level": "CET4"
+    },
+    {
+      "word": "us",
+      "translation": "pron. 我们",
+      "level": "CET4"
+    },
+    {
+      "word": "use",
+      "translation": "v. 使用，利用",
+      "level": "CET4"
+    },
+    {
+      "word": "used",
+      "translation": "adj. 用过的，习惯于",
+      "level": "CET4"
+    },
+    {
+      "word": "useful",
+      "translation": "adj. 有用的，有益的",
+      "level": "CET4"
+    },
+    {
+      "word": "useless",
+      "translation": "adj. 无用的，无价值的",
+      "level": "CET4"
+    },
+    {
+      "word": "usual",
+      "translation": "adj. 通常的，惯常的",
+      "level": "CET4"
+    },
+    {
+      "word": "usually",
+      "translation": "adv. 通常地，一般地",
+      "level": "CET4"
+    },
+    {
+      "word": "utility",
+      "translation": "n. 实用，效用",
+      "level": "CET4"
+    },
+    {
+      "word": "utilize",
+      "translation": "v. 利用，使用",
+      "level": "CET4"
+    },
+    {
+      "word": "vacation",
+      "translation": "n. 假期，休假",
+      "level": "CET4"
+    },
+    {
+      "word": "vacuum",
+      "translation": "n. 真空，空白",
+      "level": "CET4"
+    },
+    {
+      "word": "vague",
+      "translation": "adj. 模糊的，不明确的",
+      "level": "CET4"
+    },
+    {
+      "word": "vain",
+      "translation": "adj. 徒劳的，自负的",
+      "level": "CET4"
+    },
+    {
+      "word": "valid",
+      "translation": "adj. 有效的，正当的",
+      "level": "CET4"
+    },
+    {
+      "word": "valley",
+      "translation": "n. 山谷，溪谷",
+      "level": "CET4"
+    },
+    {
+      "word": "valuable",
+      "translation": "adj. 有价值的，贵重的",
+      "level": "CET4"
+    },
+    {
+      "word": "value",
+      "translation": "n. 价值，v. 评价",
+      "level": "CET4"
+    },
+    {
+      "word": "van",
+      "translation": "n. 厢式货车，面包车",
+      "level": "CET4"
+    },
+    {
+      "word": "vanish",
+      "translation": "v. 消失，绝迹",
+      "level": "CET4"
+    },
+    {
+      "word": "variety",
+      "translation": "n. 多样化，种类",
+      "level": "CET4"
+    },
+    {
+      "word": "various",
+      "translation": "adj. 各种各样的",
+      "level": "CET4"
+    },
+    {
+      "word": "vary",
+      "translation": "v. 改变，变化",
+      "level": "CET4"
+    },
+    {
+      "word": "vast",
+      "translation": "adj. 巨大的，广阔的",
+      "level": "CET4"
+    },
+    {
+      "word": "vegetable",
+      "translation": "n. 蔬菜",
+      "level": "CET4"
+    },
+    {
+      "word": "vehicle",
+      "translation": "n. 车辆，交通工具",
+      "level": "CET4"
+    },
+    {
+      "word": "venture",
+      "translation": "n. 冒险，风险投资，v. 冒险",
+      "level": "CET4"
+    },
+    {
+      "word": "verb",
+      "translation": "n. 动词",
+      "level": "CET4"
+    },
+    {
+      "word": "verbal",
+      "translation": "adj. 口头的，言语的",
+      "level": "CET4"
+    },
+    {
+      "word": "verdict",
+      "translation": "n. 判决，裁定",
+      "level": "CET4"
+    },
+    {
+      "word": "version",
+      "translation": "n. 版本，说法",
+      "level": "CET4"
+    },
+    {
+      "word": "vertical",
+      "translation": "adj. 垂直的，竖直的",
+      "level": "CET4"
+    },
+    {
+      "word": "very",
+      "translation": "adv. 很，非常",
+      "level": "CET4"
+    },
+    {
+      "word": "vessel",
+      "translation": "n. 船，容器，血管",
+      "level": "CET4"
+    },
+    {
+      "word": "veteran",
+      "translation": "n. 老兵，老手",
+      "level": "CET4"
+    },
+    {
+      "word": "via",
+      "translation": "prep. 经过，通过",
+      "level": "CET4"
+    },
+    {
+      "word": "victim",
+      "translation": "n. 受害者，牺牲品",
+      "level": "CET4"
+    },
+    {
+      "word": "victory",
+      "translation": "n. 胜利，成功",
+      "level": "CET4"
+    },
+    {
+      "word": "video",
+      "translation": "n. 视频，录像",
+      "level": "CET4"
+    },
+    {
+      "word": "view",
+      "translation": "n. 观点，视野，v. 看待",
+      "level": "CET4"
+    },
+    {
+      "word": "viewer",
+      "translation": "n. 观众，观看者",
+      "level": "CET4"
+    },
+    {
+      "word": "vigor",
+      "translation": "n. 精力，活力",
+      "level": "CET4"
+    },
+    {
+      "word": "vigorous",
+      "translation": "adj. 有力的，精力充沛的",
+      "level": "CET4"
+    },
+    {
+      "word": "village",
+      "translation": "n. 村庄，乡村",
+      "level": "CET4"
+    },
+    {
+      "word": "violate",
+      "translation": "v. 违反，侵犯",
+      "level": "CET4"
+    },
+    {
+      "word": "violence",
+      "translation": "n. 暴力，猛烈",
+      "level": "CET4"
+    },
+    {
+      "word": "violent",
+      "translation": "adj. 暴力的，猛烈的",
+      "level": "CET4"
+    },
+    {
+      "word": "violet",
+      "translation": "n. 紫罗兰，紫色",
+      "level": "CET4"
+    },
+    {
+      "word": "violin",
+      "translation": "n. 小提琴",
+      "level": "CET4"
+    },
+    {
+      "word": "virtual",
+      "translation": "adj. 虚拟的，实质上的",
+      "level": "CET4"
+    },
+    {
+      "word": "virtue",
+      "translation": "n. 美德，优点",
+      "level": "CET4"
+    },
+    {
+      "word": "virus",
+      "translation": "n. 病毒",
+      "level": "CET4"
+    },
+    {
+      "word": "visible",
+      "translation": "adj. 可见的，看得见的",
+      "level": "CET4"
+    },
+    {
+      "word": "vision",
+      "translation": "n. 视力，想象力",
+      "level": "CET4"
+    },
+    {
+      "word": "visit",
+      "translation": "v. 访问，参观",
+      "level": "CET4"
+    },
+    {
+      "word": "visitor",
+      "translation": "n. 访问者，参观者",
+      "level": "CET4"
+    },
+    {
+      "word": "visual",
+      "translation": "adj. 视觉的，看的",
+      "level": "CET4"
+    },
+    {
+      "word": "vital",
+      "translation": "adj. 至关重要的，生死攸关的",
+      "level": "CET4"
+    },
+    {
+      "word": "vivid",
+      "translation": "adj. 生动的，鲜明的",
+      "level": "CET4"
+    },
+    {
+      "word": "vocabulary",
+      "translation": "n. 词汇，词汇量",
+      "level": "CET4"
+    },
+    {
+      "word": "vocation",
+      "translation": "n. 职业，行业",
+      "level": "CET4"
+    },
+    {
+      "word": "voice",
+      "translation": "n. 声音，嗓音",
+      "level": "CET4"
+    },
+    {
+      "word": "void",
+      "translation": "adj. 无效的，空的",
+      "level": "CET4"
+    },
+    {
+      "word": "volcano",
+      "translation": "n. 火山",
+      "level": "CET4"
+    },
+    {
+      "word": "volleyball",
+      "translation": "n. 排球",
+      "level": "CET4"
+    },
+    {
+      "word": "volunteer",
+      "translation": "n. 志愿者，v. 自愿",
+      "level": "CET4"
+    },
+    {
+      "word": "voyage",
+      "translation": "n.&vi.航海，航空",
+      "level": "CET4"
+    },
+    {
+      "word": "wage",
+      "translation": "vt.开展(运动)",
+      "level": "CET4"
+    },
+    {
+      "word": "waggon",
+      "translation": "n.四轮运货马车",
+      "level": "CET4"
+    },
+    {
+      "word": "waken",
+      "translation": "vi.醒来 vt.弄醒",
+      "level": "CET4"
+    },
+    {
+      "word": "wander",
+      "translation": "vi.漫游；迷路；离题",
+      "level": "CET4"
+    },
+    {
+      "word": "want",
+      "translation": "n.需要；缺乏",
+      "level": "CET4"
+    },
+    {
+      "word": "warmth",
+      "translation": "n.暖和，温暖；热烈",
+      "level": "CET4"
+    },
+    {
+      "word": "water",
+      "translation": "n.水 vt.使湿，灌溉",
+      "level": "CET4"
+    },
+    {
+      "word": "waterproof",
+      "translation": "a.不透水的，防水的",
+      "level": "CET4"
+    },
+    {
+      "word": "wave",
+      "translation": "n.波；波涛 vi.波动",
+      "level": "CET4"
+    },
+    {
+      "word": "wax",
+      "translation": "n.蜡，蜂蜡",
+      "level": "CET4"
+    },
+    {
+      "word": "weaken",
+      "translation": "vt.削弱 vi.变弱",
+      "level": "CET4"
+    },
+    {
+      "word": "weakness",
+      "translation": "n.虚弱，软弱；弱点",
+      "level": "CET4"
+    },
+    {
+      "word": "wear",
+      "translation": "vt.磨损",
+      "level": "CET4"
+    },
+    {
+      "word": "weave",
+      "translation": "vt.织，编 vi.纺织",
+      "level": "CET4"
+    },
+    {
+      "word": "weed",
+      "translation": "n.杂草，野草 vi.除草",
+      "level": "CET4"
+    },
+    {
+      "word": "weep",
+      "translation": "vi.哭泣，流泪",
+      "level": "CET4"
+    },
+    {
+      "word": "weld",
+      "translation": "vt.&n.焊接，熔接",
+      "level": "CET4"
+    },
+    {
+      "word": "welfare",
+      "translation": "n.幸福，福利",
+      "level": "CET4"
+    },
+    {
+      "word": "wheat",
+      "translation": "n.小麦",
+      "level": "CET4"
+    },
+    {
+      "word": "wheel",
+      "translation": "n.轮，车轮",
+      "level": "CET4"
+    },
+    {
+      "word": "whilst",
+      "translation": "conj.&n.当…的时候",
+      "level": "CET4"
+    },
+    {
+      "word": "whip",
+      "translation": "vt.鞭笞；搅打 n.鞭子",
+      "level": "CET4"
+    },
+    {
+      "word": "whisper",
+      "translation": "vt.低声地讲 vi.低语",
+      "level": "CET4"
+    },
+    {
+      "word": "whistle",
+      "translation": "n.口哨 vi.吹口哨",
+      "level": "CET4"
+    },
+    {
+      "word": "wholly",
+      "translation": "ad.完全地，全部",
+      "level": "CET4"
+    },
+    {
+      "word": "wicked",
+      "translation": "a.坏的；令人厌恶的",
+      "level": "CET4"
+    },
+    {
+      "word": "widen",
+      "translation": "vt.加宽 vi.变宽",
+      "level": "CET4"
+    },
+    {
+      "word": "widow",
+      "translation": "n.寡妇",
+      "level": "CET4"
+    },
+    {
+      "word": "width",
+      "translation": "n.宽阔，广阔；宽度",
+      "level": "CET4"
+    },
+    {
+      "word": "willing",
+      "translation": "a.愿意的，心甘情愿的",
+      "level": "CET4"
+    },
+    {
+      "word": "wind",
+      "translation": "vt.绕，缠绕 vi.卷曲",
+      "level": "CET4"
+    },
+    {
+      "word": "wing",
+      "translation": "n.翼，翅膀，翅",
+      "level": "CET4"
+    },
+    {
+      "word": "wire",
+      "translation": "n.金属线；电缆；电信",
+      "level": "CET4"
+    },
+    {
+      "word": "wit",
+      "translation": "n.智力，才智，智能",
+      "level": "CET4"
+    },
+    {
+      "word": "withdraw",
+      "translation": "vt.收回；撤回vi.撤退",
+      "level": "CET4"
+    },
+    {
+      "word": "withstand",
+      "translation": "vt.抵挡，反抗",
+      "level": "CET4"
+    },
+    {
+      "word": "witness",
+      "translation": "n.证据；证人 vt.目击",
+      "level": "CET4"
+    },
+    {
+      "word": "wooden",
+      "translation": "a.木制的；呆板的",
+      "level": "CET4"
+    },
+    {
+      "word": "wool",
+      "translation": "n.羊毛；毛线，绒线",
+      "level": "CET4"
+    },
+    {
+      "word": "workman",
+      "translation": "n.工人，劳动者，工匠",
+      "level": "CET4"
+    },
+    {
+      "word": "workshop",
+      "translation": "n.车间，工场；创作室",
+      "level": "CET4"
+    },
+    {
+      "word": "world-wide",
+      "translation": "a.遍及全球的",
+      "level": "CET4"
+    },
+    {
+      "word": "worm",
+      "translation": "n.虫，蠕虫",
+      "level": "CET4"
+    },
+    {
+      "word": "worship",
+      "translation": "n.礼拜；崇拜 vt.崇拜",
+      "level": "CET4"
+    },
+    {
+      "word": "worst",
+      "translation": "a.最坏的 ad.最坏地",
+      "level": "CET4"
+    },
+    {
+      "word": "worth",
+      "translation": "a.值…的 n.价值",
+      "level": "CET4"
+    },
+    {
+      "word": "worthless",
+      "translation": "a.无价值的，无用的",
+      "level": "CET4"
+    },
+    {
+      "word": "worthwhile",
+      "translation": "a.值得花时间的",
+      "level": "CET4"
+    },
+    {
+      "word": "worthy",
+      "translation": "a.有价值的；值得的",
+      "level": "CET4"
+    },
+    {
+      "word": "wound",
+      "translation": "n.创伤，伤 vt.使受伤",
+      "level": "CET4"
+    },
+    {
+      "word": "wrap",
+      "translation": "vt.裹，包，捆 n.披肩",
+      "level": "CET4"
+    },
+    {
+      "word": "wreck",
+      "translation": "n.失事；残骸 vt.破坏",
+      "level": "CET4"
+    },
+    {
+      "word": "wrist",
+      "translation": "n.腕，腕关节",
+      "level": "CET4"
+    },
+    {
+      "word": "X-ray",
+      "translation": "n.X射线，X光",
+      "level": "CET4"
+    },
+    {
+      "word": "yard",
+      "translation": "n.院子，庭院；场地",
+      "level": "CET4"
+    },
+    {
+      "word": "yawn",
+      "translation": "vi.打呵欠 n.呵欠",
+      "level": "CET4"
+    },
+    {
+      "word": "yearly",
+      "translation": "a.每年的 ad.一年一度",
+      "level": "CET4"
+    },
+    {
+      "word": "yield",
+      "translation": "vt.&vi.出产 n.产量",
+      "level": "CET4"
+    },
+    {
+      "word": "youth",
+      "translation": "n.青春；青年们；青年",
+      "level": "CET4"
+    },
+    {
+      "word": "zone",
+      "translation": "n.地区，区域，范围",
+      "level": "CET4"
+    },
+    {
+      "word": "china",
+      "translation": "n.瓷器 adj.瓷制的"
+    },
+    {
+      "word": "Kim jisoo",
+      "translation": "n.金智秀(blackpink成员)"
+    },
+    {
+      "word": "China",
+      "translation": "n.中国 adj.中国的，中国制造的"
+    }
+  ]
+}

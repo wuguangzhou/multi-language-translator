@@ -1,0 +1,6 @@
+flask==3.0.2
+deep-translator==1.11.4
+python-dotenv==1.0.1
+werkzeug==3.0.1
+langdetect==1.0.9
+requests==2.31.0 

@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>智能翻译助手</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap" rel="stylesheet">
+    <!-- 主题预加载脚本 - 避免主题闪烁 -->
+    <script>
+        (function() {
+            // 在DOM渲染前应用保存的主题
+            const savedTheme = localStorage.getItem('theme') || 'harajuku';
+            const root = document.documentElement;
+            
+            // 先清除所有主题类
+            root.classList.remove('pixel-theme', 'cyberpunk-theme');
+            
+            // 应用保存的主题
+            if (savedTheme === 'pixel') {
+                root.classList.add('pixel-theme');
+            } else if (savedTheme === 'cyberpunk') {
+                root.classList.add('cyberpunk-theme');
+            }
+        })();
+    </script>
+</head>
+<body>
+    <!-- 主题切换按钮 -->
+    <button id="themeToggle" class="theme-toggle">
+        <span class="icon">🎨</span>
+        <span class="text">主题</span>
+    </button>
+    
+    <!-- 主题选择下拉菜单 -->
+    <div id="themeMenu" class="theme-menu">
+        <div class="theme-option" data-theme="harajuku">
+            <span class="theme-option-icon">🌸</span>
+            <span class="theme-option-name">原宿风</span>
+        </div>
+        <div class="theme-option" data-theme="pixel">
+            <span class="theme-option-icon">🎮</span>
+            <span class="theme-option-name">像素风</span>
+        </div>
+        <div class="theme-option" data-theme="cyberpunk">
+            <span class="theme-option-icon">🌃</span>
+            <span class="theme-option-name">未来朋克</span>
+        </div>
+    </div>
+
+    <div class="container">
+        <header>
+            <div class="title-container">
+                <h1 class="title">智能翻译助手</h1>
+                <p class="subtitle">支持中、英、日、韩等多种语言互译</p>
+                <a href="/vocabulary" class="vocab-link">背单词</a>
+            </div>
+        </header>
+
+        <div class="translation-box">
+            <div class="input-section">
+                <div class="language-selector">
+                    <button class="lang-btn active" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="en">English</button>
+                    <button class="lang-btn" data-lang="ja">日本語</button>
+                    <button class="lang-btn" data-lang="ko">한국어</button>
+                </div>
+                <textarea id="sourceText" placeholder="请输入要翻译的文本..." class="text-input"></textarea>
+                <div class="button-group">
+                    <button id="clearBtn" class="action-btn clear-btn">
+                        <span class="btn-icon">🗑️</span>
+                        清空
+                    </button>
+                    <button id="copyBtn" class="action-btn copy-btn">
+                        <span class="btn-icon">📋</span>
+                        复制
+                    </button>
+                </div>
+            </div>
+
+            <div class="output-section">
+                <div class="language-selector">
+                    <button class="lang-btn active" data-lang="en">English</button>
+                    <button class="lang-btn" data-lang="zh">中文</button>
+                    <button class="lang-btn" data-lang="ja">日本語</button>
+                    <button class="lang-btn" data-lang="ko">한국어</button>
+                </div>
+                <textarea id="translatedText" class="text-output"></textarea>
+                <div class="button-group">
+                    <button id="speakBtn" class="action-btn speak-btn">
+                        <span class="btn-icon">🔊</span>
+                        朗读
+                    </button>
+                    <button id="copyTranslatedBtn" class="action-btn copy-btn">
+                        <span class="btn-icon">📋</span>
+                        复制
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <div class="status-bar">
+            <div id="status" class="status-message"></div>
+            <div class="loading-spinner" id="loadingSpinner"></div>
+        </div>
+
+        <div class="translation-history">
+            <h3 class="history-title">最近翻译记录</h3>
+            <div id="historyList" class="history-list">
+                <!-- 翻译记录将在这里动态添加 -->
+            </div>
+        </div>
+    </div>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html> 
